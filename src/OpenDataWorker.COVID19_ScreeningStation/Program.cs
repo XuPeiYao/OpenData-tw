@@ -1,9 +1,13 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
+using System.Linq;
 using System.Net.Http;
+using System.Text;
+using System.Text.Encodings.Web;
+using System.Text.Json;
 using System.Threading.Tasks;
 using CsvHelper;
 using CsvHelper.Configuration;
@@ -15,15 +19,36 @@ namespace OpenDataWorker.Covid19_ScreeningStation
     {
         private const string zhCSV = "http://od.cdc.gov.tw/icb/指定採檢醫院清單.csv";
         private const string enCSV = "http://od.cdc.gov.tw/icb/指定採檢醫院清單(英文版).csv";
+
         public static async Task Main(string[] args)
         {
             var zh = DownloadCsvRecord(zhCSV);
             var en = DownloadCsvRecord(enCSV);
             await Task.WhenAll(zh, en);
 
+            var result = ScreeningStation.LoadFromRaw(zh.Result, en.Result).ToArray();
 
-            
-            Console.WriteLine("Hello World!");
+            var jsonText = JsonSerializer.Serialize(
+                result, new JsonSerializerOptions()
+                {
+                    PropertyNameCaseInsensitive = true,
+                    Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping, 
+                    WriteIndented = true
+                    
+                });
+
+            File.WriteAllText(
+                Path.Combine(GetDataDirectory(), "Covid19_ScreeningStation.json"), jsonText);
+        }
+
+        public static string GetDataDirectory()
+        {
+            var workDir = Path.Combine(Directory.GetCurrentDirectory(), "data");
+            if (!Directory.Exists(workDir))
+            {
+                Directory.CreateDirectory(workDir);
+            }
+            return workDir;
         }
 
 
@@ -41,7 +66,7 @@ namespace OpenDataWorker.Covid19_ScreeningStation
             using (var reader = new StreamReader(stream))
             using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
-                return csv.GetRecords<RawCsvRecord>();
+                return csv.GetRecords<RawCsvRecord>().ToArray();
             }
         }
     }

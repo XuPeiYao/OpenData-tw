@@ -1,7 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 
 namespace OpenDataWorker.Covid19_ScreeningStation.Models
 {
@@ -18,6 +19,18 @@ namespace OpenDataWorker.Covid19_ScreeningStation.Models
             RawCsvRecord en
         )
         {
+            return new ScreeningStation()
+            {
+                Code      = zh.機構代碼,
+                Telephone = zh.電話,
+                ZhInfo = Information.Load(zh),
+                EnInfo = Information.Load(en),
+                Position = new Position()
+                {
+                    Longitude = double.Parse(zh.經度),
+                    Latitude = double.Parse(zh.緯度)
+                }
+            };
         }
 
         public static IEnumerable<ScreeningStation> LoadFromRaw(
@@ -36,6 +49,18 @@ namespace OpenDataWorker.Covid19_ScreeningStation.Models
         public string District { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
+
+        public static Information Load(RawCsvRecord raw)
+        {
+            return new Information()
+            {
+                Region   = Regex.Unescape(raw.區域),
+                County   = Regex.Unescape(raw.縣市),
+                District = Regex.Unescape(raw.行政區),
+                Name     = Regex.Unescape(raw.機構名稱),
+                Address  = Regex.Unescape(raw.地址)
+            };
+        }
     }
 
     public class Position
