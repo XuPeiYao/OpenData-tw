@@ -22,5 +22,6 @@ jobs:
     - name: Test
       run: dotnet run --project ./src/OpenDataWorker.COVID19_ScreeningStation
     - uses: EndBug/add-and-commit@v7
-      message: 'Update Covid19 ScreeningStation json file'
+      with:
+        message: 'Update Covid19 ScreeningStation json file'
       
