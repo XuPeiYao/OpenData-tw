@@ -1,10 +1,12 @@
-# Rules in this file were initially inferred by Visual Studio IntelliCode from the D:\Projects\OpenData-tw\src codebase based on best match to current usage at 2021/6/21
+# Rules in this file were initially inferred by Visual Studio IntelliCode from the D:\Projects\EdwardHsu.Lab.BreakpointResume\src codebase based on best match to current usage at 2021/6/18
 # You can modify the rules from these initially generated values to suit your own policies
 # You can learn more about editorconfig here: https://docs.microsoft.com/en-us/visualstudio/ide/editorconfig-code-style-settings-reference
-[*.cs]
+[*]
+charset = utf-8
 
 # Standard properties
 end_of_line = lf
+insert_final_newline = true
 
 # Microsoft .NET properties
 csharp_new_line_before_members_in_object_initializers = false
@@ -24,22 +26,27 @@ dotnet_style_qualification_for_property = false:suggestion
 dotnet_style_require_accessibility_modifiers = for_non_interface_members:suggestion
 
 # ReSharper properties
+resharper_align_first_arg_by_paren = false
 resharper_align_linq_query = true
+resharper_align_multiline_argument = true
 resharper_align_multiline_calls_chain = true
+resharper_align_multiline_expression = true
 resharper_align_multiline_extends_list = true
 resharper_align_multiline_for_stmt = true
 resharper_align_multline_type_parameter_constrains = true
 resharper_align_multline_type_parameter_list = true
 resharper_align_tuple_components = true
+resharper_csharp_align_first_arg_by_paren = false
+resharper_csharp_align_multiline_expression = false
 resharper_csharp_align_multiline_parameter = true
 resharper_csharp_align_multiple_declaration = true
-resharper_csharp_insert_final_newline = true
 resharper_csharp_int_align_comments = true
 resharper_csharp_outdent_commas = true
 resharper_csharp_wrap_after_declaration_lpar = true
 resharper_csharp_wrap_after_invocation_lpar = true
 resharper_csharp_wrap_before_declaration_rpar = true
 resharper_csharp_wrap_parameters_style = chop_if_long
+resharper_enforce_line_ending_style = true
 resharper_int_align_assignments = true
 resharper_int_align_nested_ternary = true
 resharper_int_align_parameters = true
@@ -48,6 +55,7 @@ resharper_int_align_switch_expressions = true
 resharper_int_align_switch_sections = true
 resharper_int_align_variables = true
 resharper_keep_existing_invocation_parens_arrangement = false
+resharper_use_indent_from_vs = false
 
 # ReSharper inspection severities
 resharper_arrange_redundant_parentheses_highlighting = hint
@@ -61,6 +69,10 @@ resharper_suggest_var_or_type_built_in_types_highlighting = hint
 resharper_suggest_var_or_type_elsewhere_highlighting = hint
 resharper_suggest_var_or_type_simple_types_highlighting = hint
 
+[*.cs]
+
+end_of_line = lf
+insert_final_newline = true
 
 [*.{c,c++,cc,cginc,compute,cp,cpp,cu,cuh,cxx,h,hh,hlsl,hlsli,hlslinc,hpp,hxx,inc,inl,ino,ipp,mpp,mq4,mq5,mqh,proto,tpp,usf,ush}]
 indent_style = tab
@@ -76,3 +88,8 @@ tab_width = 4
 indent_style = space
 indent_size = 2
 tab_width = 2
+
+[*.{appxmanifest,asax,ascx,aspx,axaml,axml,build,c,c++,cc,cginc,compute,config,cp,cpp,cs,cshtml,csproj,css,cu,cuh,cxx,dbml,discomap,dtd,h,hh,hlsl,hlsli,hlslinc,hpp,htm,html,hxx,inc,inl,ino,ipp,js,json,jsproj,jsx,lsproj,master,mpp,mq4,mq5,mqh,njsproj,nuspec,paml,proj,props,proto,razor,resjson,resw,resx,skin,StyleCop,targets,tasks,tpp,ts,tsx,usf,ush,vb,vbproj,xaml,xamlx,xml,xoml,xsd}]
+indent_style = space
+indent_size = 4
+tab_width = 4
