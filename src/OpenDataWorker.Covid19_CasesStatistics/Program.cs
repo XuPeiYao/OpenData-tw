@@ -80,7 +80,7 @@ namespace OpenDataWorker.Covid19_CasesStatistics
                                   y => new
                                   {
                                       total = y.Sum(z => z.Count),
-                                      ages = y.GroupBy(z=>z.AgeGroup).ToDictionary(
+                                      ages = y.GroupBy(z=>z.AgeGroup).OrderByDescending(z=>z.Key).ToDictionary(
                                                  y => y.Key,
                                                  y => new
                                                  {
