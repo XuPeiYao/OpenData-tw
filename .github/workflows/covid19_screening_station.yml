@@ -1,4 +1,4 @@
-name: .NET
+name: COVID 19 Screening Station
 
 on:
   push:
