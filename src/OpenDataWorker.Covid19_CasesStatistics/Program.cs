@@ -46,6 +46,7 @@ namespace OpenDataWorker.Covid19_CasesStatistics
                 {
                     date = x.Key,
                     county = x.GroupBy(y => y.County)
+                              .OrderBy(y => y.Key)
                               .ToDictionary(
                                   y => y.Key == "空值" ? "境外" : y.Key,
                                   y => new
@@ -71,7 +72,9 @@ namespace OpenDataWorker.Covid19_CasesStatistics
                 x => new
                 {
                     date = x.Key,
+                    total = x.Sum(y => y.Count),
                     county = x.GroupBy(y => y.County)
+                              .OrderBy(x=>x.Key)
                               .ToDictionary(
                                   y => y.Key == "空值" ? "境外" : y.Key,
                                   y => new
