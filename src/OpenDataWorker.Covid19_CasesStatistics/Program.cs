@@ -39,6 +39,33 @@ namespace OpenDataWorker.Covid19_CasesStatistics
                 dailyTotalCaseCount.OrderByDescending(x=>x.date).FirstOrDefault());
             #endregion
 
+            #region Daily cases age group
+            var dailyAgeCaseCount = dailyCase.GroupBy(x => x.Date).Select(
+                x => new
+                {
+                    date  = x.Key,
+                    total = x.Sum(y => y.Count),
+                    ages = x.GroupBy(z => z.AgeGroup).OrderByDescending(z => z.Key).ToDictionary(
+                        y => y.Key,
+                        y => new
+                        {
+                            total = y.Sum(z => z.Count),
+                            male = y.Where(z => z.Gender == Gender.Male)
+                                    .Sum(z => z.Count),
+                            female = y.Where(
+                                          z => z.Gender == Gender.Female)
+                                      .Sum(z => z.Count)
+                        })
+                });
+            OutputJsonFile(
+                $"covid19-daily-age-cases_{DateTime.UtcNow.AddHours(8).AddDays(-1).ToString("yyyy-MM-dd_UTC+8")}.json"
+              , dailyAgeCaseCount);
+            OutputJsonFile(
+                $"covid19-daily-age-cases_lastDay.json"
+              , dailyAgeCaseCount.OrderByDescending(x => x.date).FirstOrDefault());
+            #endregion
+
+
             #region Daily county cases
 
             var dailyCountyCaseCount = dailyCase.GroupBy(x => x.Date).Select(
