@@ -1,10 +1,10 @@
-name: COVID 19 Screening Station
+name: COVID 19 Cases Statistics
 
 on:
   push:
     branches: [ main ]
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '0 1 * * *' # AM 9:00 UTC+8
 
 jobs:
   build:
@@ -18,9 +18,9 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore ./src
     - name: Run worker
-      run: dotnet run --project ./src/OpenDataWorker.COVID19_ScreeningStation
+      run: dotnet run --project ./src/OpenDataWorker.Covid19_CasesStatistics
     - name: Commit and push
       uses: EndBug/add-and-commit@v7
       with:
-        message: 'Update Covid19 ScreeningStation json file'
+        message: 'Update Covid19 CasesStatistics json file'
       
