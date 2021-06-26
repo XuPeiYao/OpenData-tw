@@ -34,7 +34,9 @@ namespace OpenDataWorker.Covid19_CasesStatistics
             OutputJsonFile(
                 $"covid19-daily-cases_{DateTime.UtcNow.AddHours(8).AddDays(-1).ToString("yyyy-MM-dd_UTC+8")}.json"
               , dailyTotalCaseCount);
-
+            OutputJsonFile(
+                $"covid19-daily-cases_lastDay.json",
+                dailyTotalCaseCount.OrderByDescending(x=>x.date).FirstOrDefault());
             #endregion
 
             #region Daily county cases
@@ -59,16 +61,12 @@ namespace OpenDataWorker.Covid19_CasesStatistics
             OutputJsonFile(
                 $"covid19-daily-county-cases_{DateTime.UtcNow.AddHours(8).AddDays(-1).ToString("yyyy-MM-dd_UTC+8")}.json"
               , dailyCountyCaseCount);
-
+            OutputJsonFile(
+                $"covid19-daily-county-cases_lastDay.json"
+              , dailyCountyCaseCount.OrderByDescending(x=>x.date).FirstOrDefault());
             #endregion
 
             #region Daily cases county age group
-
-            var age_Groups = new string[]
-            {
-                "00-04", "05-09", "10-14", "15-19", "20-24", "25-29", "30-34", "35-39", "40-44", "45-49", "50-54",
-                "55-59", "60-64", "65-69", "70+"
-            };
             var dailyCountyAgeCaseCount = dailyCase.GroupBy(x => x.Date).Select(
                 x => new
                 {
@@ -95,7 +93,9 @@ namespace OpenDataWorker.Covid19_CasesStatistics
             OutputJsonFile(
                 $"covid19-daily-county-age-cases_{DateTime.UtcNow.AddHours(8).AddDays(-1).ToString("yyyy-MM-dd_UTC+8")}.json"
               , dailyCountyAgeCaseCount);
-
+            OutputJsonFile(
+                $"covid19-daily-county-age-cases_lastDay.json"
+              , dailyCountyAgeCaseCount.OrderByDescending(x=>x.date).FirstOrDefault());
             #endregion
         }
 
