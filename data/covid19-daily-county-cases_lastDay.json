@@ -15,6 +15,13 @@
         "female": 10
       }
     },
+    "基隆市": {
+      "total": 1,
+      "gender": {
+        "male": 0,
+        "female": 1
+      }
+    },
     "宜蘭縣": {
       "total": 1,
       "gender": {
@@ -22,31 +29,10 @@
         "female": 0
       }
     },
-    "苗栗縣": {
-      "total": 3,
-      "gender": {
-        "male": 3,
-        "female": 0
-      }
-    },
-    "桃園市": {
-      "total": 10,
-      "gender": {
-        "male": 4,
-        "female": 6
-      }
-    },
-    "高雄市": {
+    "彰化縣": {
       "total": 2,
       "gender": {
-        "male": 2,
-        "female": 0
-      }
-    },
-    "基隆市": {
-      "total": 1,
-      "gender": {
-        "male": 0,
+        "male": 1,
         "female": 1
       }
     },
@@ -64,11 +50,25 @@
         "female": 1
       }
     },
-    "彰化縣": {
+    "桃園市": {
+      "total": 10,
+      "gender": {
+        "male": 4,
+        "female": 6
+      }
+    },
+    "苗栗縣": {
+      "total": 3,
+      "gender": {
+        "male": 3,
+        "female": 0
+      }
+    },
+    "高雄市": {
       "total": 2,
       "gender": {
-        "male": 1,
-        "female": 1
+        "male": 2,
+        "female": 0
       }
     }
   }
