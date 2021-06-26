@@ -1,0 +1,240 @@
+{
+  "date": "2021/06/25",
+  "county": {
+    "台中市": {
+      "total": 1,
+      "ages": {
+        "50-54": {
+          "total": 1,
+          "male": 0,
+          "female": 1
+        }
+      }
+    },
+    "台北市": {
+      "total": 19,
+      "ages": {
+        "65-69": {
+          "total": 3,
+          "male": 2,
+          "female": 1
+        },
+        "50-54": {
+          "total": 2,
+          "male": 2,
+          "female": 0
+        },
+        "40-44": {
+          "total": 4,
+          "male": 1,
+          "female": 3
+        },
+        "60-64": {
+          "total": 1,
+          "male": 0,
+          "female": 1
+        },
+        "70+": {
+          "total": 3,
+          "male": 1,
+          "female": 2
+        },
+        "45-49": {
+          "total": 3,
+          "male": 1,
+          "female": 2
+        },
+        "55-59": {
+          "total": 2,
+          "male": 1,
+          "female": 1
+        },
+        "30-34": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        }
+      }
+    },
+    "宜蘭縣": {
+      "total": 1,
+      "ages": {
+        "65-69": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        }
+      }
+    },
+    "苗栗縣": {
+      "total": 3,
+      "ages": {
+        "25-29": {
+          "total": 2,
+          "male": 2,
+          "female": 0
+        },
+        "30-34": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        }
+      }
+    },
+    "桃園市": {
+      "total": 10,
+      "ages": {
+        "50-54": {
+          "total": 3,
+          "male": 1,
+          "female": 2
+        },
+        "70+": {
+          "total": 2,
+          "male": 0,
+          "female": 2
+        },
+        "65-69": {
+          "total": 2,
+          "male": 1,
+          "female": 1
+        },
+        "55-59": {
+          "total": 2,
+          "male": 1,
+          "female": 1
+        },
+        "35-39": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        }
+      }
+    },
+    "高雄市": {
+      "total": 2,
+      "ages": {
+        "25-29": {
+          "total": 2,
+          "male": 2,
+          "female": 0
+        }
+      }
+    },
+    "基隆市": {
+      "total": 1,
+      "ages": {
+        "70+": {
+          "total": 1,
+          "male": 0,
+          "female": 1
+        }
+      }
+    },
+    "新北市": {
+      "total": 33,
+      "ages": {
+        "10-14": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        },
+        "25-29": {
+          "total": 5,
+          "male": 4,
+          "female": 1
+        },
+        "55-59": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        },
+        "65-69": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        },
+        "35-39": {
+          "total": 3,
+          "male": 0,
+          "female": 3
+        },
+        "40-44": {
+          "total": 3,
+          "male": 1,
+          "female": 2
+        },
+        "30-34": {
+          "total": 2,
+          "male": 1,
+          "female": 1
+        },
+        "45-49": {
+          "total": 3,
+          "male": 1,
+          "female": 2
+        },
+        "70+": {
+          "total": 7,
+          "male": 2,
+          "female": 5
+        },
+        "15-19": {
+          "total": 3,
+          "male": 2,
+          "female": 1
+        },
+        "50-54": {
+          "total": 2,
+          "male": 1,
+          "female": 1
+        },
+        "05-09": {
+          "total": 1,
+          "male": 0,
+          "female": 1
+        },
+        "60-64": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        }
+      }
+    },
+    "新竹縣": {
+      "total": 4,
+      "ages": {
+        "70+": {
+          "total": 2,
+          "male": 1,
+          "female": 1
+        },
+        "00-04": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        },
+        "40-44": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        }
+      }
+    },
+    "彰化縣": {
+      "total": 2,
+      "ages": {
+        "25-29": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        },
+        "65-69": {
+          "total": 1,
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  }
+}

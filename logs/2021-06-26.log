@@ -5,3 +5,13 @@
 [2021-06-26 16:12:25]	Output json file: covid19-daily-cases_2021-06-26_UTC+8.json
 [2021-06-26 16:12:25]	Output json file: covid19-daily-county-cases_2021-06-26_UTC+8.json
 [2021-06-26 16:12:25]	Output json file: covid19-daily-county-age-cases_2021-06-26_UTC+8.json
+[2021-06-26 16:24:43]	Http Get daily cases from OpenData API
+[2021-06-26 16:24:43]	Daily case file ETag: "220067-5c59f4207b8b4"
+[2021-06-26 16:24:43]	Daily cases file lastModfiyTime: 06/25/2021 23:11:21 +00:00
+[2021-06-26 16:24:43]	Output text file: raw_covid19-daily-cases_2021-06-26(16-24-43).json
+[2021-06-26 16:24:43]	Output json file: covid19-daily-cases_2021-06-26_UTC+8.json
+[2021-06-26 16:24:43]	Output json file: covid19-daily-cases_lastDay.json
+[2021-06-26 16:24:43]	Output json file: covid19-daily-county-cases_2021-06-26_UTC+8.json
+[2021-06-26 16:24:43]	Output json file: covid19-daily-county-cases_lastDay.json
+[2021-06-26 16:24:43]	Output json file: covid19-daily-county-age-cases_2021-06-26_UTC+8.json
+[2021-06-26 16:24:43]	Output json file: covid19-daily-county-age-cases_lastDay.json
