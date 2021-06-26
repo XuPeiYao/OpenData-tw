@@ -1,0 +1,10 @@
+{
+  "date": "2021/06/25",
+  "total": 76,
+  "imported": 0,
+  "locallyAcquired": 73,
+  "gender": {
+    "male": 39,
+    "female": 37
+  }
+}
