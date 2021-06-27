@@ -8107,5 +8107,73 @@
         }
       }
     }
+  },
+  {
+    "date": "2021/06/26",
+    "county": {
+      "台北市": {
+        "total": 29,
+        "gender": {
+          "male": 16,
+          "female": 13
+        }
+      },
+      "基隆市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "屏東縣": {
+        "total": 3,
+        "gender": {
+          "male": 0,
+          "female": 3
+        }
+      },
+      "彰化縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 37,
+        "gender": {
+          "male": 15,
+          "female": 22
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "苗栗縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
   }
 ]

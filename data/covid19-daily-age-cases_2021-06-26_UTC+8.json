@@ -9565,5 +9565,86 @@
         "female": 0
       }
     }
+  },
+  {
+    "date": "2021/06/26",
+    "total": 80,
+    "ages": {
+      "70+": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "65-69": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "60-64": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "55-59": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "50-54": {
+        "total": 12,
+        "male": 5,
+        "female": 7
+      },
+      "45-49": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "40-44": {
+        "total": 8,
+        "male": 3,
+        "female": 5
+      },
+      "35-39": {
+        "total": 11,
+        "male": 5,
+        "female": 6
+      },
+      "30-34": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "25-29": {
+        "total": 6,
+        "male": 5,
+        "female": 1
+      },
+      "20-24": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "15-19": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "10-14": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "05-09": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "00-04": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
   }
 ]
