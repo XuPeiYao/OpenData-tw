@@ -23,8 +23,8 @@ namespace OpenDataWorker.Covid19_CasesStatistics
                 {
                     date            = x.Key,
                     total           = x.Sum(y => y.Count),
-                    imported        = x.Count(y => y.Imported),
-                    locallyAcquired = x.Count(y => !y.Imported),
+                    imported        = x.Where(y => y.Imported).Sum(x => x.Count),
+                    locallyAcquired = x.Where(y => !y.Imported).Sum(x=> x.Count),
                     gender = new
                     {
                         male   = x.Where(y => y.Gender == Gender.Male).Sum(x => x.Count),
@@ -72,6 +72,7 @@ namespace OpenDataWorker.Covid19_CasesStatistics
                 x => new
                 {
                     date = x.Key,
+                    total = x.Sum(y => y.Count),
                     county = x.GroupBy(y => y.County)
                               .OrderBy(y => y.Key)
                               .ToDictionary(
