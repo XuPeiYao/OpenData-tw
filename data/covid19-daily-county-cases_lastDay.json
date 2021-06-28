@@ -1,43 +1,43 @@
 {
-  "date": "2021/06/26",
-  "total": 80,
+  "date": "2021/06/27",
+  "total": 89,
   "county": {
-    "台北市": {
-      "total": 29,
-      "gender": {
-        "male": 16,
-        "female": 13
-      }
-    },
-    "基隆市": {
-      "total": 3,
-      "gender": {
-        "male": 1,
-        "female": 2
-      }
-    },
-    "屏東縣": {
-      "total": 3,
-      "gender": {
-        "male": 0,
-        "female": 3
-      }
-    },
-    "彰化縣": {
+    "南投縣": {
       "total": 1,
       "gender": {
-        "male": 0,
-        "female": 1
+        "male": 1,
+        "female": 0
       }
     },
-    "新北市": {
-      "total": 37,
+    "台北市": {
+      "total": 33,
       "gender": {
-        "male": 15,
+        "male": 11,
         "female": 22
       }
     },
-    "新竹縣": {
+    "台南市": {
+      "total": 8,
+      "gender": {
+        "male": 2,
+        "female": 6
+      }
+    },
+    "屏東縣": {
+      "total": 1,
+      "gender": {
+        "male": 1,
+        "female": 0
+      }
+    },
+    "新北市": {
+      "total": 40,
+      "gender": {
+        "male": 28,
+        "female": 12
+      }
+    },
+    "新竹市": {
       "total": 1,
       "gender": {
         "male": 1,
@@ -45,20 +45,13 @@
       }
     },
     "桃園市": {
-      "total": 3,
+      "total": 4,
       "gender": {
-        "male": 2,
-        "female": 1
+        "male": 4,
+        "female": 0
       }
     },
     "境外": {
-      "total": 2,
-      "gender": {
-        "male": 0,
-        "female": 2
-      }
-    },
-    "苗栗縣": {
       "total": 1,
       "gender": {
         "male": 1,

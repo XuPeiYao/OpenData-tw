@@ -1,0 +1,8594 @@
+[
+  {
+    "date": "2020/01/22",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/01/24",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/01/26",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/01/27",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/01/28",
+    "total": 3,
+    "county": {
+      "彰化縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/01/30",
+    "total": 1,
+    "county": {
+      "南投縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/01/31",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/04",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/06",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/07",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/08",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/09",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/16",
+    "total": 2,
+    "county": {
+      "彰化縣": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/18",
+    "total": 2,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "彰化縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/19",
+    "total": 1,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/20",
+    "total": 1,
+    "county": {
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/21",
+    "total": 2,
+    "county": {
+      "新北市": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/23",
+    "total": 2,
+    "county": {
+      "新北市": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/24",
+    "total": 2,
+    "county": {
+      "新北市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/25",
+    "total": 1,
+    "county": {
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/26",
+    "total": 1,
+    "county": {
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/28",
+    "total": 2,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/02/29",
+    "total": 5,
+    "county": {
+      "桃園市": {
+        "total": 4,
+        "gender": {
+          "male": 0,
+          "female": 4
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/01",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/02",
+    "total": 1,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/03",
+    "total": 1,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/05",
+    "total": 2,
+    "county": {
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/06",
+    "total": 1,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/10",
+    "total": 2,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/11",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/12",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/13",
+    "total": 1,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/14",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/15",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/16",
+    "total": 8,
+    "county": {
+      "境外": {
+        "total": 8,
+        "gender": {
+          "male": 4,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/17",
+    "total": 11,
+    "county": {
+      "境外": {
+        "total": 11,
+        "gender": {
+          "male": 5,
+          "female": 6
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/18",
+    "total": 23,
+    "county": {
+      "台南市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 21,
+        "gender": {
+          "male": 8,
+          "female": 13
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/19",
+    "total": 8,
+    "county": {
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 5,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/20",
+    "total": 26,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 23,
+        "gender": {
+          "male": 8,
+          "female": 15
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/21",
+    "total": 19,
+    "county": {
+      "境外": {
+        "total": 19,
+        "gender": {
+          "male": 7,
+          "female": 12
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/22",
+    "total": 16,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 13,
+        "gender": {
+          "male": 8,
+          "female": 5
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/23",
+    "total": 26,
+    "county": {
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 25,
+        "gender": {
+          "male": 12,
+          "female": 13
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/24",
+    "total": 21,
+    "county": {
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 20,
+        "gender": {
+          "male": 7,
+          "female": 13
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/25",
+    "total": 19,
+    "county": {
+      "境外": {
+        "total": 19,
+        "gender": {
+          "male": 7,
+          "female": 12
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/26",
+    "total": 17,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "基隆市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 15,
+        "gender": {
+          "male": 8,
+          "female": 7
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/27",
+    "total": 15,
+    "county": {
+      "境外": {
+        "total": 15,
+        "gender": {
+          "male": 9,
+          "female": 6
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/28",
+    "total": 16,
+    "county": {
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 14,
+        "gender": {
+          "male": 5,
+          "female": 9
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/29",
+    "total": 15,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 14,
+        "gender": {
+          "male": 9,
+          "female": 5
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/30",
+    "total": 8,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 4,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/03/31",
+    "total": 16,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 14,
+        "gender": {
+          "male": 7,
+          "female": 7
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/01",
+    "total": 7,
+    "county": {
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 3,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/02",
+    "total": 10,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 8,
+        "gender": {
+          "male": 6,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/03",
+    "total": 9,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 2,
+          "female": 5
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/04",
+    "total": 7,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 2,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/05",
+    "total": 8,
+    "county": {
+      "境外": {
+        "total": 8,
+        "gender": {
+          "male": 4,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/06",
+    "total": 10,
+    "county": {
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 9,
+        "gender": {
+          "male": 5,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/07",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/08",
+    "total": 3,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/09",
+    "total": 1,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/10",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/11",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/12",
+    "total": 3,
+    "county": {
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/13",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 2,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/15",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/18",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/19",
+    "total": 22,
+    "county": {
+      "境外": {
+        "total": 22,
+        "gender": {
+          "male": 20,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/20",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/21",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/22",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/23",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/24",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/04/25",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/05/02",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/05/03",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/05/04",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/05/06",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/05/07",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/05/21",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/05/29",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/06/01",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/06/15",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/06/18",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/06/25",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/07/02",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/07/03",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/07/10",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/07/16",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/07/17",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/07/19",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/07/24",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/07/27",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/07/28",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 4,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/01",
+    "total": 7,
+    "county": {
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 7,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/02",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/04",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/06",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/08",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/09",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/12",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/15",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/16",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/17",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/18",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/21",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/08/29",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/02",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/04",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/05",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/06",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/07",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/08",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/10",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/11",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/14",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/16",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/17",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/19",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/20",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/21",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/25",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/28",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/09/30",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/01",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/02",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/05",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/06",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/07",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/08",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/09",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/12",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/15",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/16",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/19",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/20",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/21",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/22",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/24",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/28",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/29",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/30",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/10/31",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/01",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/02",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 2,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/03",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/04",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/05",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/06",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 0,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/08",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/09",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/10",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/11",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/12",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 0,
+          "female": 5
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/13",
+    "total": 8,
+    "county": {
+      "境外": {
+        "total": 8,
+        "gender": {
+          "male": 4,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/14",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/15",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/16",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/17",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/18",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/19",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/20",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/22",
+    "total": 6,
+    "county": {
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 1,
+          "female": 5
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/23",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/25",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 1,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/26",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/27",
+    "total": 14,
+    "county": {
+      "境外": {
+        "total": 14,
+        "gender": {
+          "male": 1,
+          "female": 13
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/28",
+    "total": 9,
+    "county": {
+      "境外": {
+        "total": 9,
+        "gender": {
+          "male": 1,
+          "female": 8
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/29",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 0,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/11/30",
+    "total": 24,
+    "county": {
+      "境外": {
+        "total": 24,
+        "gender": {
+          "male": 6,
+          "female": 18
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/01",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/02",
+    "total": 6,
+    "county": {
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 4,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/03",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/04",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/05",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/06",
+    "total": 22,
+    "county": {
+      "境外": {
+        "total": 22,
+        "gender": {
+          "male": 5,
+          "female": 17
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/08",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/09",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/10",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/11",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/12",
+    "total": 8,
+    "county": {
+      "境外": {
+        "total": 8,
+        "gender": {
+          "male": 1,
+          "female": 7
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/13",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/14",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/15",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/16",
+    "total": 7,
+    "county": {
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 5,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/17",
+    "total": 8,
+    "county": {
+      "境外": {
+        "total": 8,
+        "gender": {
+          "male": 3,
+          "female": 5
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/18",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/19",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/20",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/22",
+    "total": 4,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/23",
+    "total": 6,
+    "county": {
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/25",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/26",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/27",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/28",
+    "total": 8,
+    "county": {
+      "境外": {
+        "total": 8,
+        "gender": {
+          "male": 6,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/29",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/30",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2020/12/31",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/01",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/02",
+    "total": 6,
+    "county": {
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 2,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/03",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/04",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 0,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/05",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/06",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/07",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/08",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/09",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/11",
+    "total": 6,
+    "county": {
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/12",
+    "total": 4,
+    "county": {
+      "桃園市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/13",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 4,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/15",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/16",
+    "total": 8,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 6,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/17",
+    "total": 4,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/18",
+    "total": 7,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/19",
+    "total": 6,
+    "county": {
+      "桃園市": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/20",
+    "total": 2,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/21",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/22",
+    "total": 8,
+    "county": {
+      "桃園市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 6,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/23",
+    "total": 3,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/24",
+    "total": 3,
+    "county": {
+      "桃園市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/25",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/26",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/27",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/28",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/29",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/30",
+    "total": 10,
+    "county": {
+      "桃園市": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      },
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 2,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/01/31",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/01",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/02",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/03",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/04",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/05",
+    "total": 4,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/06",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/07",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/08",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/09",
+    "total": 5,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 0,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/10",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/11",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/12",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/17",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/18",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/19",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/20",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/24",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/25",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 0,
+          "female": 5
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/27",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/02/28",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/03",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/04",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/06",
+    "total": 7,
+    "county": {
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 7,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/07",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/08",
+    "total": 7,
+    "county": {
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 3,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/09",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/10",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/12",
+    "total": 6,
+    "county": {
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 6,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/14",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/15",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 4,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/18",
+    "total": 8,
+    "county": {
+      "境外": {
+        "total": 8,
+        "gender": {
+          "male": 4,
+          "female": 4
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/19",
+    "total": 6,
+    "county": {
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/20",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/21",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/23",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/24",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/25",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/26",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/27",
+    "total": 7,
+    "county": {
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 7,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/28",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/29",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/30",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/03/31",
+    "total": 6,
+    "county": {
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 5,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/01",
+    "total": 6,
+    "county": {
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/02",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/03",
+    "total": 6,
+    "county": {
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/04",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/05",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/06",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/09",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/10",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/11",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/12",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/13",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 4,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/14",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 4,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/15",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/16",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/17",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/18",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/19",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/20",
+    "total": 2,
+    "county": {
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/21",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/22",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/23",
+    "total": 4,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/24",
+    "total": 7,
+    "county": {
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 6,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/25",
+    "total": 3,
+    "county": {
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/26",
+    "total": 4,
+    "county": {
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 4,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/27",
+    "total": 6,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/28",
+    "total": 6,
+    "county": {
+      "桃園市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/29",
+    "total": 5,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/04/30",
+    "total": 7,
+    "county": {
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 4,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/01",
+    "total": 4,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/02",
+    "total": 5,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/03",
+    "total": 8,
+    "county": {
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 6,
+        "gender": {
+          "male": 5,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/04",
+    "total": 8,
+    "county": {
+      "境外": {
+        "total": 8,
+        "gender": {
+          "male": 7,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/05",
+    "total": 7,
+    "county": {
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 5,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/06",
+    "total": 13,
+    "county": {
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 12,
+        "gender": {
+          "male": 5,
+          "female": 7
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/07",
+    "total": 5,
+    "county": {
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/08",
+    "total": 5,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/09",
+    "total": 1,
+    "county": {
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/10",
+    "total": 15,
+    "county": {
+      "新北市": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 12,
+        "gender": {
+          "male": 11,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/11",
+    "total": 11,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "宜蘭縣": {
+        "total": 5,
+        "gender": {
+          "male": 1,
+          "female": 4
+        }
+      },
+      "新北市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/12",
+    "total": 21,
+    "county": {
+      "台北市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "基隆市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "宜蘭縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "新北市": {
+        "total": 11,
+        "gender": {
+          "male": 5,
+          "female": 6
+        }
+      },
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/13",
+    "total": 25,
+    "county": {
+      "台北市": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "新北市": {
+        "total": 7,
+        "gender": {
+          "male": 6,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      },
+      "境外": {
+        "total": 12,
+        "gender": {
+          "male": 10,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/14",
+    "total": 32,
+    "county": {
+      "台北市": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      },
+      "宜蘭縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 16,
+        "gender": {
+          "male": 9,
+          "female": 7
+        }
+      },
+      "桃園市": {
+        "total": 3,
+        "gender": {
+          "male": 0,
+          "female": 3
+        }
+      },
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/15",
+    "total": 186,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台北市": {
+        "total": 86,
+        "gender": {
+          "male": 33,
+          "female": 53
+        }
+      },
+      "基隆市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "宜蘭縣": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      },
+      "彰化縣": {
+        "total": 6,
+        "gender": {
+          "male": 2,
+          "female": 4
+        }
+      },
+      "新北市": {
+        "total": 79,
+        "gender": {
+          "male": 26,
+          "female": 53
+        }
+      },
+      "桃園市": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/16",
+    "total": 204,
+    "county": {
+      "台北市": {
+        "total": 93,
+        "gender": {
+          "male": 32,
+          "female": 61
+        }
+      },
+      "基隆市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "宜蘭縣": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      },
+      "彰化縣": {
+        "total": 9,
+        "gender": {
+          "male": 7,
+          "female": 2
+        }
+      },
+      "新北市": {
+        "total": 92,
+        "gender": {
+          "male": 42,
+          "female": 50
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/17",
+    "total": 334,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 159,
+        "gender": {
+          "male": 57,
+          "female": 102
+        }
+      },
+      "基隆市": {
+        "total": 6,
+        "gender": {
+          "male": 2,
+          "female": 4
+        }
+      },
+      "宜蘭縣": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "彰化縣": {
+        "total": 5,
+        "gender": {
+          "male": 2,
+          "female": 3
+        }
+      },
+      "新北市": {
+        "total": 147,
+        "gender": {
+          "male": 72,
+          "female": 75
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 10,
+        "gender": {
+          "male": 7,
+          "female": 3
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "苗栗縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/18",
+    "total": 242,
+    "county": {
+      "台北市": {
+        "total": 103,
+        "gender": {
+          "male": 39,
+          "female": 64
+        }
+      },
+      "基隆市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "彰化縣": {
+        "total": 10,
+        "gender": {
+          "male": 5,
+          "female": 5
+        }
+      },
+      "新北市": {
+        "total": 104,
+        "gender": {
+          "male": 54,
+          "female": 50
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 12,
+        "gender": {
+          "male": 7,
+          "female": 5
+        }
+      },
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/19",
+    "total": 274,
+    "county": {
+      "台中市": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "台北市": {
+        "total": 70,
+        "gender": {
+          "male": 30,
+          "female": 40
+        }
+      },
+      "台南市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "基隆市": {
+        "total": 5,
+        "gender": {
+          "male": 0,
+          "female": 5
+        }
+      },
+      "宜蘭縣": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 28,
+        "gender": {
+          "male": 9,
+          "female": 19
+        }
+      },
+      "新北市": {
+        "total": 130,
+        "gender": {
+          "male": 69,
+          "female": 61
+        }
+      },
+      "新竹市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 15,
+        "gender": {
+          "male": 8,
+          "female": 7
+        }
+      },
+      "境外": {
+        "total": 8,
+        "gender": {
+          "male": 5,
+          "female": 3
+        }
+      },
+      "高雄市": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/20",
+    "total": 293,
+    "county": {
+      "台中市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "台北市": {
+        "total": 81,
+        "gender": {
+          "male": 50,
+          "female": 31
+        }
+      },
+      "基隆市": {
+        "total": 5,
+        "gender": {
+          "male": 5,
+          "female": 0
+        }
+      },
+      "宜蘭縣": {
+        "total": 8,
+        "gender": {
+          "male": 5,
+          "female": 3
+        }
+      },
+      "彰化縣": {
+        "total": 6,
+        "gender": {
+          "male": 2,
+          "female": 4
+        }
+      },
+      "新北市": {
+        "total": 161,
+        "gender": {
+          "male": 83,
+          "female": 78
+        }
+      },
+      "桃園市": {
+        "total": 17,
+        "gender": {
+          "male": 7,
+          "female": 10
+        }
+      },
+      "境外": {
+        "total": 9,
+        "gender": {
+          "male": 6,
+          "female": 3
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/21",
+    "total": 314,
+    "county": {
+      "南投縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台中市": {
+        "total": 6,
+        "gender": {
+          "male": 4,
+          "female": 2
+        }
+      },
+      "台北市": {
+        "total": 125,
+        "gender": {
+          "male": 74,
+          "female": 51
+        }
+      },
+      "基隆市": {
+        "total": 8,
+        "gender": {
+          "male": 5,
+          "female": 3
+        }
+      },
+      "宜蘭縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "屏東縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "彰化縣": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "新北市": {
+        "total": 147,
+        "gender": {
+          "male": 74,
+          "female": 73
+        }
+      },
+      "桃園市": {
+        "total": 11,
+        "gender": {
+          "male": 5,
+          "female": 6
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/22",
+    "total": 722,
+    "county": {
+      "南投縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台中市": {
+        "total": 11,
+        "gender": {
+          "male": 5,
+          "female": 6
+        }
+      },
+      "台北市": {
+        "total": 264,
+        "gender": {
+          "male": 114,
+          "female": 150
+        }
+      },
+      "台南市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "基隆市": {
+        "total": 10,
+        "gender": {
+          "male": 6,
+          "female": 4
+        }
+      },
+      "宜蘭縣": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      },
+      "屏東縣": {
+        "total": 5,
+        "gender": {
+          "male": 4,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      },
+      "新北市": {
+        "total": 385,
+        "gender": {
+          "male": 196,
+          "female": 189
+        }
+      },
+      "新竹市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "新竹縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 23,
+        "gender": {
+          "male": 8,
+          "female": 15
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "苗栗縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/23",
+    "total": 453,
+    "county": {
+      "南投縣": {
+        "total": 8,
+        "gender": {
+          "male": 2,
+          "female": 6
+        }
+      },
+      "台中市": {
+        "total": 5,
+        "gender": {
+          "male": 2,
+          "female": 3
+        }
+      },
+      "台北市": {
+        "total": 165,
+        "gender": {
+          "male": 76,
+          "female": 89
+        }
+      },
+      "台南市": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "嘉義市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "嘉義縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "基隆市": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "宜蘭縣": {
+        "total": 7,
+        "gender": {
+          "male": 3,
+          "female": 4
+        }
+      },
+      "屏東縣": {
+        "total": 8,
+        "gender": {
+          "male": 3,
+          "female": 5
+        }
+      },
+      "彰化縣": {
+        "total": 11,
+        "gender": {
+          "male": 2,
+          "female": 9
+        }
+      },
+      "新北市": {
+        "total": 207,
+        "gender": {
+          "male": 110,
+          "female": 97
+        }
+      },
+      "新竹市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 24,
+        "gender": {
+          "male": 11,
+          "female": 13
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "雲林縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/24",
+    "total": 594,
+    "county": {
+      "南投縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台中市": {
+        "total": 8,
+        "gender": {
+          "male": 4,
+          "female": 4
+        }
+      },
+      "台北市": {
+        "total": 244,
+        "gender": {
+          "male": 138,
+          "female": 106
+        }
+      },
+      "台南市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "基隆市": {
+        "total": 7,
+        "gender": {
+          "male": 4,
+          "female": 3
+        }
+      },
+      "屏東縣": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      },
+      "彰化縣": {
+        "total": 12,
+        "gender": {
+          "male": 4,
+          "female": 8
+        }
+      },
+      "新北市": {
+        "total": 281,
+        "gender": {
+          "male": 139,
+          "female": 142
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 22,
+        "gender": {
+          "male": 14,
+          "female": 8
+        }
+      },
+      "境外": {
+        "total": 5,
+        "gender": {
+          "male": 5,
+          "female": 0
+        }
+      },
+      "苗栗縣": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/25",
+    "total": 536,
+    "county": {
+      "南投縣": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "台中市": {
+        "total": 10,
+        "gender": {
+          "male": 5,
+          "female": 5
+        }
+      },
+      "台北市": {
+        "total": 196,
+        "gender": {
+          "male": 118,
+          "female": 78
+        }
+      },
+      "台南市": {
+        "total": 4,
+        "gender": {
+          "male": 0,
+          "female": 4
+        }
+      },
+      "台東縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "基隆市": {
+        "total": 12,
+        "gender": {
+          "male": 5,
+          "female": 7
+        }
+      },
+      "宜蘭縣": {
+        "total": 8,
+        "gender": {
+          "male": 3,
+          "female": 5
+        }
+      },
+      "屏東縣": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      },
+      "彰化縣": {
+        "total": 12,
+        "gender": {
+          "male": 6,
+          "female": 6
+        }
+      },
+      "新北市": {
+        "total": 249,
+        "gender": {
+          "male": 140,
+          "female": 109
+        }
+      },
+      "新竹市": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 23,
+        "gender": {
+          "male": 13,
+          "female": 10
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "苗栗縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/26",
+    "total": 640,
+    "county": {
+      "台中市": {
+        "total": 11,
+        "gender": {
+          "male": 4,
+          "female": 7
+        }
+      },
+      "台北市": {
+        "total": 310,
+        "gender": {
+          "male": 146,
+          "female": 164
+        }
+      },
+      "台南市": {
+        "total": 8,
+        "gender": {
+          "male": 6,
+          "female": 2
+        }
+      },
+      "台東縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "嘉義市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "基隆市": {
+        "total": 14,
+        "gender": {
+          "male": 8,
+          "female": 6
+        }
+      },
+      "宜蘭縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "屏東縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "新北市": {
+        "total": 251,
+        "gender": {
+          "male": 134,
+          "female": 117
+        }
+      },
+      "新竹縣": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 25,
+        "gender": {
+          "male": 10,
+          "female": 15
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "苗栗縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "連江縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "雲林縣": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/27",
+    "total": 670,
+    "county": {
+      "南投縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台中市": {
+        "total": 10,
+        "gender": {
+          "male": 4,
+          "female": 6
+        }
+      },
+      "台北市": {
+        "total": 223,
+        "gender": {
+          "male": 110,
+          "female": 113
+        }
+      },
+      "台南市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台東縣": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      },
+      "嘉義市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "基隆市": {
+        "total": 18,
+        "gender": {
+          "male": 6,
+          "female": 12
+        }
+      },
+      "宜蘭縣": {
+        "total": 10,
+        "gender": {
+          "male": 5,
+          "female": 5
+        }
+      },
+      "屏東縣": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 13,
+        "gender": {
+          "male": 9,
+          "female": 4
+        }
+      },
+      "新北市": {
+        "total": 327,
+        "gender": {
+          "male": 166,
+          "female": 161
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "新竹縣": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "桃園市": {
+        "total": 23,
+        "gender": {
+          "male": 9,
+          "female": 14
+        }
+      },
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 4,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      },
+      "苗栗縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "連江縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 14,
+        "gender": {
+          "male": 4,
+          "female": 10
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/28",
+    "total": 555,
+    "county": {
+      "南投縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台中市": {
+        "total": 10,
+        "gender": {
+          "male": 3,
+          "female": 7
+        }
+      },
+      "台北市": {
+        "total": 211,
+        "gender": {
+          "male": 106,
+          "female": 105
+        }
+      },
+      "台南市": {
+        "total": 6,
+        "gender": {
+          "male": 4,
+          "female": 2
+        }
+      },
+      "台東縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "嘉義市": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "基隆市": {
+        "total": 8,
+        "gender": {
+          "male": 2,
+          "female": 6
+        }
+      },
+      "屏東縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "彰化縣": {
+        "total": 9,
+        "gender": {
+          "male": 4,
+          "female": 5
+        }
+      },
+      "新北市": {
+        "total": 270,
+        "gender": {
+          "male": 148,
+          "female": 122
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 22,
+        "gender": {
+          "male": 14,
+          "female": 8
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "花蓮縣": {
+        "total": 9,
+        "gender": {
+          "male": 5,
+          "female": 4
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/29",
+    "total": 487,
+    "county": {
+      "台中市": {
+        "total": 33,
+        "gender": {
+          "male": 13,
+          "female": 20
+        }
+      },
+      "台北市": {
+        "total": 168,
+        "gender": {
+          "male": 85,
+          "female": 83
+        }
+      },
+      "台東縣": {
+        "total": 5,
+        "gender": {
+          "male": 1,
+          "female": 4
+        }
+      },
+      "嘉義縣": {
+        "total": 4,
+        "gender": {
+          "male": 4,
+          "female": 0
+        }
+      },
+      "基隆市": {
+        "total": 14,
+        "gender": {
+          "male": 4,
+          "female": 10
+        }
+      },
+      "宜蘭縣": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "彰化縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 219,
+        "gender": {
+          "male": 130,
+          "female": 89
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "新竹縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 18,
+        "gender": {
+          "male": 9,
+          "female": 9
+        }
+      },
+      "境外": {
+        "total": 7,
+        "gender": {
+          "male": 7,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      },
+      "苗栗縣": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/30",
+    "total": 358,
+    "county": {
+      "南投縣": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      },
+      "台中市": {
+        "total": 9,
+        "gender": {
+          "male": 5,
+          "female": 4
+        }
+      },
+      "台北市": {
+        "total": 81,
+        "gender": {
+          "male": 36,
+          "female": 45
+        }
+      },
+      "台東縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "嘉義縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "基隆市": {
+        "total": 9,
+        "gender": {
+          "male": 3,
+          "female": 6
+        }
+      },
+      "宜蘭縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "彰化縣": {
+        "total": 9,
+        "gender": {
+          "male": 2,
+          "female": 7
+        }
+      },
+      "新北市": {
+        "total": 199,
+        "gender": {
+          "male": 97,
+          "female": 102
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 24,
+        "gender": {
+          "male": 13,
+          "female": 11
+        }
+      },
+      "花蓮縣": {
+        "total": 6,
+        "gender": {
+          "male": 1,
+          "female": 5
+        }
+      },
+      "苗栗縣": {
+        "total": 9,
+        "gender": {
+          "male": 3,
+          "female": 6
+        }
+      },
+      "連江縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/05/31",
+    "total": 351,
+    "county": {
+      "台中市": {
+        "total": 5,
+        "gender": {
+          "male": 2,
+          "female": 3
+        }
+      },
+      "台北市": {
+        "total": 121,
+        "gender": {
+          "male": 55,
+          "female": 66
+        }
+      },
+      "基隆市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "彰化縣": {
+        "total": 10,
+        "gender": {
+          "male": 7,
+          "female": 3
+        }
+      },
+      "新北市": {
+        "total": 172,
+        "gender": {
+          "male": 80,
+          "female": 92
+        }
+      },
+      "新竹市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 27,
+        "gender": {
+          "male": 17,
+          "female": 10
+        }
+      },
+      "澎湖縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      },
+      "花蓮縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "苗栗縣": {
+        "total": 3,
+        "gender": {
+          "male": 0,
+          "female": 3
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/01",
+    "total": 330,
+    "county": {
+      "台中市": {
+        "total": 10,
+        "gender": {
+          "male": 5,
+          "female": 5
+        }
+      },
+      "台北市": {
+        "total": 89,
+        "gender": {
+          "male": 41,
+          "female": 48
+        }
+      },
+      "台南市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台東縣": {
+        "total": 3,
+        "gender": {
+          "male": 0,
+          "female": 3
+        }
+      },
+      "嘉義縣": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      },
+      "基隆市": {
+        "total": 8,
+        "gender": {
+          "male": 5,
+          "female": 3
+        }
+      },
+      "宜蘭縣": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "彰化縣": {
+        "total": 12,
+        "gender": {
+          "male": 7,
+          "female": 5
+        }
+      },
+      "新北市": {
+        "total": 162,
+        "gender": {
+          "male": 88,
+          "female": 74
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 24,
+        "gender": {
+          "male": 11,
+          "female": 13
+        }
+      },
+      "澎湖縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      },
+      "花蓮縣": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "苗栗縣": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/02",
+    "total": 548,
+    "county": {
+      "南投縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台中市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 146,
+        "gender": {
+          "male": 78,
+          "female": 68
+        }
+      },
+      "台南市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "台東縣": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      },
+      "基隆市": {
+        "total": 18,
+        "gender": {
+          "male": 9,
+          "female": 9
+        }
+      },
+      "彰化縣": {
+        "total": 10,
+        "gender": {
+          "male": 6,
+          "female": 4
+        }
+      },
+      "新北市": {
+        "total": 315,
+        "gender": {
+          "male": 170,
+          "female": 145
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "新竹縣": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "桃園市": {
+        "total": 28,
+        "gender": {
+          "male": 17,
+          "female": 11
+        }
+      },
+      "花蓮縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "苗栗縣": {
+        "total": 12,
+        "gender": {
+          "male": 12,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 5,
+        "gender": {
+          "male": 2,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/03",
+    "total": 580,
+    "county": {
+      "台中市": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "台北市": {
+        "total": 221,
+        "gender": {
+          "male": 111,
+          "female": 110
+        }
+      },
+      "台南市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "基隆市": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "宜蘭縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 15,
+        "gender": {
+          "male": 8,
+          "female": 7
+        }
+      },
+      "新北市": {
+        "total": 264,
+        "gender": {
+          "male": 130,
+          "female": 134
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 29,
+        "gender": {
+          "male": 12,
+          "female": 17
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "苗栗縣": {
+        "total": 33,
+        "gender": {
+          "male": 31,
+          "female": 2
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/04",
+    "total": 460,
+    "county": {
+      "南投縣": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "台中市": {
+        "total": 7,
+        "gender": {
+          "male": 2,
+          "female": 5
+        }
+      },
+      "台北市": {
+        "total": 146,
+        "gender": {
+          "male": 67,
+          "female": 79
+        }
+      },
+      "嘉義縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "基隆市": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      },
+      "宜蘭縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "屏東縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "彰化縣": {
+        "total": 6,
+        "gender": {
+          "male": 1,
+          "female": 5
+        }
+      },
+      "新北市": {
+        "total": 231,
+        "gender": {
+          "male": 103,
+          "female": 128
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 12,
+        "gender": {
+          "male": 7,
+          "female": 5
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "苗栗縣": {
+        "total": 40,
+        "gender": {
+          "male": 37,
+          "female": 3
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/05",
+    "total": 504,
+    "county": {
+      "南投縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "台中市": {
+        "total": 9,
+        "gender": {
+          "male": 4,
+          "female": 5
+        }
+      },
+      "台北市": {
+        "total": 139,
+        "gender": {
+          "male": 74,
+          "female": 65
+        }
+      },
+      "台南市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "嘉義縣": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      },
+      "基隆市": {
+        "total": 13,
+        "gender": {
+          "male": 8,
+          "female": 5
+        }
+      },
+      "屏東縣": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      },
+      "彰化縣": {
+        "total": 11,
+        "gender": {
+          "male": 9,
+          "female": 2
+        }
+      },
+      "新北市": {
+        "total": 225,
+        "gender": {
+          "male": 110,
+          "female": 115
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新竹縣": {
+        "total": 7,
+        "gender": {
+          "male": 2,
+          "female": 5
+        }
+      },
+      "桃園市": {
+        "total": 18,
+        "gender": {
+          "male": 12,
+          "female": 6
+        }
+      },
+      "苗栗縣": {
+        "total": 66,
+        "gender": {
+          "male": 51,
+          "female": 15
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/06",
+    "total": 321,
+    "county": {
+      "台中市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 65,
+        "gender": {
+          "male": 33,
+          "female": 32
+        }
+      },
+      "台南市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "嘉義市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "基隆市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "宜蘭縣": {
+        "total": 9,
+        "gender": {
+          "male": 5,
+          "female": 4
+        }
+      },
+      "彰化縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "新北市": {
+        "total": 140,
+        "gender": {
+          "male": 65,
+          "female": 75
+        }
+      },
+      "新竹縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "桃園市": {
+        "total": 16,
+        "gender": {
+          "male": 8,
+          "female": 8
+        }
+      },
+      "苗栗縣": {
+        "total": 71,
+        "gender": {
+          "male": 54,
+          "female": 17
+        }
+      },
+      "雲林縣": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "高雄市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/07",
+    "total": 204,
+    "county": {
+      "台北市": {
+        "total": 59,
+        "gender": {
+          "male": 21,
+          "female": 38
+        }
+      },
+      "嘉義縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "基隆市": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      },
+      "宜蘭縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "屏東縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 8,
+        "gender": {
+          "male": 2,
+          "female": 6
+        }
+      },
+      "新北市": {
+        "total": 81,
+        "gender": {
+          "male": 41,
+          "female": 40
+        }
+      },
+      "新竹市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 5,
+        "gender": {
+          "male": 1,
+          "female": 4
+        }
+      },
+      "澎湖縣": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      },
+      "苗栗縣": {
+        "total": 35,
+        "gender": {
+          "male": 24,
+          "female": 11
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/08",
+    "total": 219,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台北市": {
+        "total": 54,
+        "gender": {
+          "male": 22,
+          "female": 32
+        }
+      },
+      "台南市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "基隆市": {
+        "total": 8,
+        "gender": {
+          "male": 5,
+          "female": 3
+        }
+      },
+      "彰化縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 123,
+        "gender": {
+          "male": 66,
+          "female": 57
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 13,
+        "gender": {
+          "male": 7,
+          "female": 6
+        }
+      },
+      "苗栗縣": {
+        "total": 16,
+        "gender": {
+          "male": 14,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/09",
+    "total": 273,
+    "county": {
+      "南投縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台北市": {
+        "total": 60,
+        "gender": {
+          "male": 24,
+          "female": 36
+        }
+      },
+      "台南市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "嘉義市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "基隆市": {
+        "total": 11,
+        "gender": {
+          "male": 4,
+          "female": 7
+        }
+      },
+      "宜蘭縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "新北市": {
+        "total": 162,
+        "gender": {
+          "male": 92,
+          "female": 70
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 15,
+        "gender": {
+          "male": 8,
+          "female": 7
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "苗栗縣": {
+        "total": 12,
+        "gender": {
+          "male": 9,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/10",
+    "total": 265,
+    "county": {
+      "南投縣": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "台北市": {
+        "total": 57,
+        "gender": {
+          "male": 30,
+          "female": 27
+        }
+      },
+      "台南市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台東縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "基隆市": {
+        "total": 13,
+        "gender": {
+          "male": 7,
+          "female": 6
+        }
+      },
+      "宜蘭縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 10,
+        "gender": {
+          "male": 2,
+          "female": 8
+        }
+      },
+      "新北市": {
+        "total": 110,
+        "gender": {
+          "male": 43,
+          "female": 67
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新竹縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 14,
+        "gender": {
+          "male": 7,
+          "female": 7
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "花蓮縣": {
+        "total": 7,
+        "gender": {
+          "male": 4,
+          "female": 3
+        }
+      },
+      "苗栗縣": {
+        "total": 43,
+        "gender": {
+          "male": 26,
+          "female": 17
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/11",
+    "total": 286,
+    "county": {
+      "台中市": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      },
+      "台北市": {
+        "total": 47,
+        "gender": {
+          "male": 26,
+          "female": 21
+        }
+      },
+      "台南市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "基隆市": {
+        "total": 8,
+        "gender": {
+          "male": 5,
+          "female": 3
+        }
+      },
+      "宜蘭縣": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 7,
+        "gender": {
+          "male": 2,
+          "female": 5
+        }
+      },
+      "新北市": {
+        "total": 119,
+        "gender": {
+          "male": 51,
+          "female": 68
+        }
+      },
+      "新竹市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "新竹縣": {
+        "total": 12,
+        "gender": {
+          "male": 4,
+          "female": 8
+        }
+      },
+      "桃園市": {
+        "total": 20,
+        "gender": {
+          "male": 11,
+          "female": 9
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "苗栗縣": {
+        "total": 57,
+        "gender": {
+          "male": 34,
+          "female": 23
+        }
+      },
+      "雲林縣": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/12",
+    "total": 250,
+    "county": {
+      "台中市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 67,
+        "gender": {
+          "male": 39,
+          "female": 28
+        }
+      },
+      "基隆市": {
+        "total": 16,
+        "gender": {
+          "male": 3,
+          "female": 13
+        }
+      },
+      "宜蘭縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "新北市": {
+        "total": 132,
+        "gender": {
+          "male": 58,
+          "female": 74
+        }
+      },
+      "新竹市": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 10,
+        "gender": {
+          "male": 3,
+          "female": 7
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "花蓮縣": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "苗栗縣": {
+        "total": 11,
+        "gender": {
+          "male": 5,
+          "female": 6
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/13",
+    "total": 175,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 63,
+        "gender": {
+          "male": 32,
+          "female": 31
+        }
+      },
+      "基隆市": {
+        "total": 7,
+        "gender": {
+          "male": 4,
+          "female": 3
+        }
+      },
+      "彰化縣": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      },
+      "新北市": {
+        "total": 80,
+        "gender": {
+          "male": 35,
+          "female": 45
+        }
+      },
+      "新竹縣": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "桃園市": {
+        "total": 16,
+        "gender": {
+          "male": 7,
+          "female": 9
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/14",
+    "total": 185,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 40,
+        "gender": {
+          "male": 20,
+          "female": 20
+        }
+      },
+      "基隆市": {
+        "total": 15,
+        "gender": {
+          "male": 9,
+          "female": 6
+        }
+      },
+      "宜蘭縣": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "彰化縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "新北市": {
+        "total": 99,
+        "gender": {
+          "male": 43,
+          "female": 56
+        }
+      },
+      "新竹縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "桃園市": {
+        "total": 10,
+        "gender": {
+          "male": 3,
+          "female": 7
+        }
+      },
+      "花蓮縣": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      },
+      "苗栗縣": {
+        "total": 7,
+        "gender": {
+          "male": 3,
+          "female": 4
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/15",
+    "total": 135,
+    "county": {
+      "台中市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 27,
+        "gender": {
+          "male": 14,
+          "female": 13
+        }
+      },
+      "台南市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "嘉義縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "基隆市": {
+        "total": 4,
+        "gender": {
+          "male": 1,
+          "female": 3
+        }
+      },
+      "彰化縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 63,
+        "gender": {
+          "male": 30,
+          "female": 33
+        }
+      },
+      "桃園市": {
+        "total": 12,
+        "gender": {
+          "male": 8,
+          "female": 4
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "花蓮縣": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "苗栗縣": {
+        "total": 18,
+        "gender": {
+          "male": 7,
+          "female": 11
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/16",
+    "total": 169,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台北市": {
+        "total": 51,
+        "gender": {
+          "male": 17,
+          "female": 34
+        }
+      },
+      "基隆市": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "新北市": {
+        "total": 65,
+        "gender": {
+          "male": 27,
+          "female": 38
+        }
+      },
+      "新竹縣": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 13,
+        "gender": {
+          "male": 12,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 8,
+        "gender": {
+          "male": 4,
+          "female": 4
+        }
+      },
+      "苗栗縣": {
+        "total": 21,
+        "gender": {
+          "male": 19,
+          "female": 2
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/17",
+    "total": 175,
+    "county": {
+      "台中市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 37,
+        "gender": {
+          "male": 24,
+          "female": 13
+        }
+      },
+      "基隆市": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "新北市": {
+        "total": 84,
+        "gender": {
+          "male": 41,
+          "female": 43
+        }
+      },
+      "新竹縣": {
+        "total": 10,
+        "gender": {
+          "male": 3,
+          "female": 7
+        }
+      },
+      "桃園市": {
+        "total": 7,
+        "gender": {
+          "male": 5,
+          "female": 2
+        }
+      },
+      "花蓮縣": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "苗栗縣": {
+        "total": 31,
+        "gender": {
+          "male": 24,
+          "female": 7
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/18",
+    "total": 186,
+    "county": {
+      "台中市": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "台北市": {
+        "total": 71,
+        "gender": {
+          "male": 29,
+          "female": 42
+        }
+      },
+      "基隆市": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 75,
+        "gender": {
+          "male": 36,
+          "female": 39
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "花蓮縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "苗栗縣": {
+        "total": 25,
+        "gender": {
+          "male": 8,
+          "female": 17
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/19",
+    "total": 128,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 29,
+        "gender": {
+          "male": 12,
+          "female": 17
+        }
+      },
+      "基隆市": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "新北市": {
+        "total": 82,
+        "gender": {
+          "male": 39,
+          "female": 43
+        }
+      },
+      "新竹市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "新竹縣": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 8,
+        "gender": {
+          "male": 4,
+          "female": 4
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/20",
+    "total": 109,
+    "county": {
+      "台中市": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      },
+      "台北市": {
+        "total": 32,
+        "gender": {
+          "male": 15,
+          "female": 17
+        }
+      },
+      "基隆市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "新北市": {
+        "total": 44,
+        "gender": {
+          "male": 30,
+          "female": 14
+        }
+      },
+      "新竹縣": {
+        "total": 4,
+        "gender": {
+          "male": 2,
+          "female": 2
+        }
+      },
+      "桃園市": {
+        "total": 16,
+        "gender": {
+          "male": 3,
+          "female": 13
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "苗栗縣": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/21",
+    "total": 74,
+    "county": {
+      "台中市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 21,
+        "gender": {
+          "male": 11,
+          "female": 10
+        }
+      },
+      "基隆市": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "彰化縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 38,
+        "gender": {
+          "male": 17,
+          "female": 21
+        }
+      },
+      "桃園市": {
+        "total": 5,
+        "gender": {
+          "male": 1,
+          "female": 4
+        }
+      },
+      "苗栗縣": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "雲林縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/22",
+    "total": 78,
+    "county": {
+      "南投縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台北市": {
+        "total": 24,
+        "gender": {
+          "male": 11,
+          "female": 13
+        }
+      },
+      "基隆市": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      },
+      "彰化縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "新北市": {
+        "total": 44,
+        "gender": {
+          "male": 18,
+          "female": 26
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "苗栗縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/23",
+    "total": 104,
+    "county": {
+      "南投縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台北市": {
+        "total": 22,
+        "gender": {
+          "male": 10,
+          "female": 12
+        }
+      },
+      "基隆市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "宜蘭縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "屏東縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "彰化縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 45,
+        "gender": {
+          "male": 19,
+          "female": 26
+        }
+      },
+      "新竹縣": {
+        "total": 9,
+        "gender": {
+          "male": 3,
+          "female": 6
+        }
+      },
+      "桃園市": {
+        "total": 7,
+        "gender": {
+          "male": 1,
+          "female": 6
+        }
+      },
+      "苗栗縣": {
+        "total": 4,
+        "gender": {
+          "male": 0,
+          "female": 4
+        }
+      },
+      "高雄市": {
+        "total": 9,
+        "gender": {
+          "male": 6,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/24",
+    "total": 130,
+    "county": {
+      "南投縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 35,
+        "gender": {
+          "male": 18,
+          "female": 17
+        }
+      },
+      "基隆市": {
+        "total": 9,
+        "gender": {
+          "male": 4,
+          "female": 5
+        }
+      },
+      "屏東縣": {
+        "total": 6,
+        "gender": {
+          "male": 5,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 53,
+        "gender": {
+          "male": 25,
+          "female": 28
+        }
+      },
+      "新竹縣": {
+        "total": 5,
+        "gender": {
+          "male": 3,
+          "female": 2
+        }
+      },
+      "桃園市": {
+        "total": 8,
+        "gender": {
+          "male": 3,
+          "female": 5
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "苗栗縣": {
+        "total": 5,
+        "gender": {
+          "male": 2,
+          "female": 3
+        }
+      },
+      "高雄市": {
+        "total": 6,
+        "gender": {
+          "male": 3,
+          "female": 3
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/25",
+    "total": 76,
+    "county": {
+      "台中市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "台北市": {
+        "total": 19,
+        "gender": {
+          "male": 9,
+          "female": 10
+        }
+      },
+      "基隆市": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "宜蘭縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "彰化縣": {
+        "total": 2,
+        "gender": {
+          "male": 1,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 33,
+        "gender": {
+          "male": 16,
+          "female": 17
+        }
+      },
+      "新竹縣": {
+        "total": 4,
+        "gender": {
+          "male": 3,
+          "female": 1
+        }
+      },
+      "桃園市": {
+        "total": 10,
+        "gender": {
+          "male": 4,
+          "female": 6
+        }
+      },
+      "苗栗縣": {
+        "total": 3,
+        "gender": {
+          "male": 3,
+          "female": 0
+        }
+      },
+      "高雄市": {
+        "total": 2,
+        "gender": {
+          "male": 2,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/26",
+    "total": 80,
+    "county": {
+      "台北市": {
+        "total": 29,
+        "gender": {
+          "male": 16,
+          "female": 13
+        }
+      },
+      "基隆市": {
+        "total": 3,
+        "gender": {
+          "male": 1,
+          "female": 2
+        }
+      },
+      "屏東縣": {
+        "total": 3,
+        "gender": {
+          "male": 0,
+          "female": 3
+        }
+      },
+      "彰化縣": {
+        "total": 1,
+        "gender": {
+          "male": 0,
+          "female": 1
+        }
+      },
+      "新北市": {
+        "total": 37,
+        "gender": {
+          "male": 15,
+          "female": 22
+        }
+      },
+      "新竹縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 3,
+        "gender": {
+          "male": 2,
+          "female": 1
+        }
+      },
+      "境外": {
+        "total": 2,
+        "gender": {
+          "male": 0,
+          "female": 2
+        }
+      },
+      "苗栗縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  },
+  {
+    "date": "2021/06/27",
+    "total": 89,
+    "county": {
+      "南投縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "台北市": {
+        "total": 33,
+        "gender": {
+          "male": 11,
+          "female": 22
+        }
+      },
+      "台南市": {
+        "total": 8,
+        "gender": {
+          "male": 2,
+          "female": 6
+        }
+      },
+      "屏東縣": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "新北市": {
+        "total": 40,
+        "gender": {
+          "male": 28,
+          "female": 12
+        }
+      },
+      "新竹市": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      },
+      "桃園市": {
+        "total": 4,
+        "gender": {
+          "male": 4,
+          "female": 0
+        }
+      },
+      "境外": {
+        "total": 1,
+        "gender": {
+          "male": 1,
+          "female": 0
+        }
+      }
+    }
+  }
+]
