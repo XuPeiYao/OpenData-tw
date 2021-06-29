@@ -1,10 +1,10 @@
 {
-  "date": "2021/06/27",
-  "total": 89,
-  "imported": 1,
-  "locallyAcquired": 88,
+  "date": "2021/06/28",
+  "total": 60,
+  "imported": 0,
+  "locallyAcquired": 60,
   "gender": {
-    "male": 49,
-    "female": 40
+    "male": 26,
+    "female": 34
   }
 }
