@@ -1,22 +1,22 @@
 {
-  "date": "2021/06/28",
-  "total": 60,
+  "date": "2021/06/29",
+  "total": 54,
   "county": {
-    "南投縣": {
-      "total": 1,
-      "gender": {
-        "male": 0,
-        "female": 1
-      }
-    },
     "台北市": {
-      "total": 22,
+      "total": 20,
       "gender": {
-        "male": 8,
+        "male": 6,
         "female": 14
       }
     },
     "基隆市": {
+      "total": 1,
+      "gender": {
+        "male": 1,
+        "female": 0
+      }
+    },
+    "屏東縣": {
       "total": 1,
       "gender": {
         "male": 0,
@@ -24,24 +24,31 @@
       }
     },
     "彰化縣": {
-      "total": 1,
-      "gender": {
-        "male": 1,
-        "female": 0
-      }
-    },
-    "新北市": {
-      "total": 33,
-      "gender": {
-        "male": 17,
-        "female": 16
-      }
-    },
-    "桃園市": {
       "total": 2,
       "gender": {
         "male": 0,
         "female": 2
+      }
+    },
+    "新北市": {
+      "total": 22,
+      "gender": {
+        "male": 9,
+        "female": 13
+      }
+    },
+    "新竹縣": {
+      "total": 4,
+      "gender": {
+        "male": 2,
+        "female": 2
+      }
+    },
+    "桃園市": {
+      "total": 4,
+      "gender": {
+        "male": 1,
+        "female": 3
       }
     }
   }
