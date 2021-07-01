@@ -1,0 +1,3572 @@
+[
+  {
+    "date": "2020/01/22",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/01/24",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/01/26",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/01/27",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/01/28",
+    "total": 3,
+    "imported": 2,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/01/30",
+    "total": 1,
+    "imported": 0,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/01/31",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/02/04",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/02/06",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/02/07",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/02/08",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/02/09",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/02/16",
+    "total": 2,
+    "imported": 0,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/02/18",
+    "total": 2,
+    "imported": 0,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/02/19",
+    "total": 1,
+    "imported": 0,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/02/20",
+    "total": 1,
+    "imported": 0,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/02/21",
+    "total": 2,
+    "imported": 0,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/02/23",
+    "total": 2,
+    "imported": 0,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/02/24",
+    "total": 2,
+    "imported": 0,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/02/25",
+    "total": 1,
+    "imported": 0,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/02/26",
+    "total": 1,
+    "imported": 0,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/02/28",
+    "total": 2,
+    "imported": 1,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/02/29",
+    "total": 5,
+    "imported": 1,
+    "locallyAcquired": 4,
+    "gender": {
+      "male": 0,
+      "female": 5
+    }
+  },
+  {
+    "date": "2020/03/01",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/03/02",
+    "total": 1,
+    "imported": 0,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/03/03",
+    "total": 1,
+    "imported": 0,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/03/05",
+    "total": 2,
+    "imported": 1,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/03/06",
+    "total": 1,
+    "imported": 0,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/03/10",
+    "total": 2,
+    "imported": 1,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/03/11",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/03/12",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/03/13",
+    "total": 1,
+    "imported": 0,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/03/14",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/03/15",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/03/16",
+    "total": 8,
+    "imported": 8,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 4
+    }
+  },
+  {
+    "date": "2020/03/17",
+    "total": 11,
+    "imported": 11,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 5,
+      "female": 6
+    }
+  },
+  {
+    "date": "2020/03/18",
+    "total": 23,
+    "imported": 21,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 9,
+      "female": 14
+    }
+  },
+  {
+    "date": "2020/03/19",
+    "total": 8,
+    "imported": 7,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 6,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/03/20",
+    "total": 26,
+    "imported": 23,
+    "locallyAcquired": 3,
+    "gender": {
+      "male": 9,
+      "female": 17
+    }
+  },
+  {
+    "date": "2020/03/21",
+    "total": 19,
+    "imported": 19,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 7,
+      "female": 12
+    }
+  },
+  {
+    "date": "2020/03/22",
+    "total": 16,
+    "imported": 13,
+    "locallyAcquired": 3,
+    "gender": {
+      "male": 9,
+      "female": 7
+    }
+  },
+  {
+    "date": "2020/03/23",
+    "total": 26,
+    "imported": 25,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 12,
+      "female": 14
+    }
+  },
+  {
+    "date": "2020/03/24",
+    "total": 21,
+    "imported": 20,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 8,
+      "female": 13
+    }
+  },
+  {
+    "date": "2020/03/25",
+    "total": 19,
+    "imported": 19,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 7,
+      "female": 12
+    }
+  },
+  {
+    "date": "2020/03/26",
+    "total": 17,
+    "imported": 15,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 9,
+      "female": 8
+    }
+  },
+  {
+    "date": "2020/03/27",
+    "total": 15,
+    "imported": 15,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 9,
+      "female": 6
+    }
+  },
+  {
+    "date": "2020/03/28",
+    "total": 16,
+    "imported": 14,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 7,
+      "female": 9
+    }
+  },
+  {
+    "date": "2020/03/29",
+    "total": 15,
+    "imported": 14,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 9,
+      "female": 6
+    }
+  },
+  {
+    "date": "2020/03/30",
+    "total": 8,
+    "imported": 7,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 5,
+      "female": 3
+    }
+  },
+  {
+    "date": "2020/03/31",
+    "total": 16,
+    "imported": 14,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 9,
+      "female": 7
+    }
+  },
+  {
+    "date": "2020/04/01",
+    "total": 7,
+    "imported": 7,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 4
+    }
+  },
+  {
+    "date": "2020/04/02",
+    "total": 10,
+    "imported": 8,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 7,
+      "female": 3
+    }
+  },
+  {
+    "date": "2020/04/03",
+    "total": 9,
+    "imported": 7,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 2,
+      "female": 7
+    }
+  },
+  {
+    "date": "2020/04/04",
+    "total": 7,
+    "imported": 6,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 3,
+      "female": 4
+    }
+  },
+  {
+    "date": "2020/04/05",
+    "total": 8,
+    "imported": 8,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 4
+    }
+  },
+  {
+    "date": "2020/04/06",
+    "total": 10,
+    "imported": 9,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 6,
+      "female": 4
+    }
+  },
+  {
+    "date": "2020/04/07",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/04/08",
+    "total": 3,
+    "imported": 2,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 0,
+      "female": 3
+    }
+  },
+  {
+    "date": "2020/04/09",
+    "total": 1,
+    "imported": 0,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/04/10",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/04/11",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/04/12",
+    "total": 3,
+    "imported": 2,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/04/13",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 3
+    }
+  },
+  {
+    "date": "2020/04/15",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/04/18",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/04/19",
+    "total": 22,
+    "imported": 22,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 20,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/04/20",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/04/21",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/04/22",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/04/23",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/04/24",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/04/25",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/05/02",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/05/03",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/05/04",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/05/06",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/05/07",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/05/21",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/05/29",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/06/01",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/06/15",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/06/18",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/06/25",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/07/02",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/07/03",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/07/10",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/07/16",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/07/17",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/07/19",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/07/24",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/07/27",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/07/28",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/08/01",
+    "total": 7,
+    "imported": 7,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 7,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/08/02",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/08/04",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/08/06",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/08/08",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/08/09",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/08/12",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/08/15",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/08/16",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/08/17",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/08/18",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/08/21",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/08/29",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/09/02",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/09/04",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/09/05",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/09/06",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/09/07",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/09/08",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/09/10",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/09/11",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/09/14",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/09/16",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/09/17",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/09/19",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/09/20",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/09/21",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/09/25",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/09/28",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/09/30",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/10/01",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/10/02",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/10/05",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/10/06",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/10/07",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/10/08",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/10/09",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/10/12",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/10/15",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/10/16",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/10/19",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/10/20",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/10/21",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/10/22",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 3
+    }
+  },
+  {
+    "date": "2020/10/24",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/10/28",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/10/29",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/10/30",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/10/31",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/11/01",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/11/02",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 3
+    }
+  },
+  {
+    "date": "2020/11/03",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/11/04",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/11/05",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/11/06",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 4
+    }
+  },
+  {
+    "date": "2020/11/08",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/11/09",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/11/10",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/11/11",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 3
+    }
+  },
+  {
+    "date": "2020/11/12",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 5
+    }
+  },
+  {
+    "date": "2020/11/13",
+    "total": 8,
+    "imported": 8,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 4
+    }
+  },
+  {
+    "date": "2020/11/14",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/11/15",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/11/16",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/11/17",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/11/18",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/11/19",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/11/20",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/11/22",
+    "total": 6,
+    "imported": 6,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 5
+    }
+  },
+  {
+    "date": "2020/11/23",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/11/25",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 4
+    }
+  },
+  {
+    "date": "2020/11/26",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/11/27",
+    "total": 14,
+    "imported": 14,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 13
+    }
+  },
+  {
+    "date": "2020/11/28",
+    "total": 9,
+    "imported": 9,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 8
+    }
+  },
+  {
+    "date": "2020/11/29",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 3
+    }
+  },
+  {
+    "date": "2020/11/30",
+    "total": 24,
+    "imported": 24,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 6,
+      "female": 18
+    }
+  },
+  {
+    "date": "2020/12/01",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/12/02",
+    "total": 6,
+    "imported": 6,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/03",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/12/04",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/12/05",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/06",
+    "total": 22,
+    "imported": 22,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 5,
+      "female": 17
+    }
+  },
+  {
+    "date": "2020/12/08",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/12/09",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/12/10",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/11",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/12/12",
+    "total": 8,
+    "imported": 8,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 7
+    }
+  },
+  {
+    "date": "2020/12/13",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/14",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/15",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/12/16",
+    "total": 7,
+    "imported": 7,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 5,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/17",
+    "total": 8,
+    "imported": 8,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 5
+    }
+  },
+  {
+    "date": "2020/12/18",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/19",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  {
+    "date": "2020/12/20",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/12/22",
+    "total": 4,
+    "imported": 3,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/23",
+    "total": 6,
+    "imported": 6,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 3
+    }
+  },
+  {
+    "date": "2020/12/25",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/26",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/12/27",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/12/28",
+    "total": 8,
+    "imported": 8,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 6,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/29",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2020/12/30",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2020/12/31",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/01/01",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/01/02",
+    "total": 6,
+    "imported": 6,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 4
+    }
+  },
+  {
+    "date": "2021/01/03",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/01/04",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 3
+    }
+  },
+  {
+    "date": "2021/01/05",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/01/06",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/01/07",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/01/08",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/01/09",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/01/11",
+    "total": 6,
+    "imported": 6,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 3
+    }
+  },
+  {
+    "date": "2021/01/12",
+    "total": 4,
+    "imported": 2,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/01/13",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/01/15",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/01/16",
+    "total": 8,
+    "imported": 7,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 6,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/01/17",
+    "total": 4,
+    "imported": 3,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 4,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/01/18",
+    "total": 7,
+    "imported": 6,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 3,
+      "female": 4
+    }
+  },
+  {
+    "date": "2021/01/19",
+    "total": 6,
+    "imported": 2,
+    "locallyAcquired": 4,
+    "gender": {
+      "male": 2,
+      "female": 4
+    }
+  },
+  {
+    "date": "2021/01/20",
+    "total": 2,
+    "imported": 1,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 0,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/01/21",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/01/22",
+    "total": 8,
+    "imported": 6,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 7,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/01/23",
+    "total": 3,
+    "imported": 2,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/01/24",
+    "total": 3,
+    "imported": 1,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/01/25",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/01/26",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/01/27",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/01/28",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/01/29",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 3
+    }
+  },
+  {
+    "date": "2021/01/30",
+    "total": 10,
+    "imported": 6,
+    "locallyAcquired": 4,
+    "gender": {
+      "male": 4,
+      "female": 6
+    }
+  },
+  {
+    "date": "2021/01/31",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/02/01",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/02/02",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/02/03",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/02/04",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/02/05",
+    "total": 4,
+    "imported": 3,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 3,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/02/06",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/02/07",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/02/08",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/02/09",
+    "total": 5,
+    "imported": 4,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 0,
+      "female": 5
+    }
+  },
+  {
+    "date": "2021/02/10",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/02/11",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/02/12",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/02/17",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/02/18",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/02/19",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/02/20",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/02/24",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/02/25",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 5
+    }
+  },
+  {
+    "date": "2021/02/27",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/02/28",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/03",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/03/04",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/06",
+    "total": 7,
+    "imported": 7,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 7,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/07",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/03/08",
+    "total": 7,
+    "imported": 7,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 4
+    }
+  },
+  {
+    "date": "2021/03/09",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/03/10",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/12",
+    "total": 6,
+    "imported": 6,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 6,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/14",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/03/15",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/03/18",
+    "total": 8,
+    "imported": 8,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 4
+    }
+  },
+  {
+    "date": "2021/03/19",
+    "total": 6,
+    "imported": 6,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 3
+    }
+  },
+  {
+    "date": "2021/03/20",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/21",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/23",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/24",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/03/25",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/03/26",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/27",
+    "total": 7,
+    "imported": 7,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 7,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/28",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/03/29",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/03/30",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/03/31",
+    "total": 6,
+    "imported": 6,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 5,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/04/01",
+    "total": 6,
+    "imported": 6,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 3
+    }
+  },
+  {
+    "date": "2021/04/02",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/03",
+    "total": 6,
+    "imported": 6,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 3
+    }
+  },
+  {
+    "date": "2021/04/04",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/05",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/04/06",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/09",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/04/10",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/04/11",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/04/12",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/04/13",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/14",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/04/15",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/04/16",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/17",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/18",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/19",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/04/20",
+    "total": 2,
+    "imported": 2,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/21",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 2,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/04/22",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 1,
+      "female": 3
+    }
+  },
+  {
+    "date": "2021/04/23",
+    "total": 4,
+    "imported": 3,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 4,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/24",
+    "total": 7,
+    "imported": 7,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 6,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/04/25",
+    "total": 3,
+    "imported": 3,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/26",
+    "total": 4,
+    "imported": 4,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 4,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/04/27",
+    "total": 6,
+    "imported": 5,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 3,
+      "female": 3
+    }
+  },
+  {
+    "date": "2021/04/28",
+    "total": 6,
+    "imported": 3,
+    "locallyAcquired": 3,
+    "gender": {
+      "male": 4,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/04/29",
+    "total": 5,
+    "imported": 3,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/04/30",
+    "total": 7,
+    "imported": 4,
+    "locallyAcquired": 3,
+    "gender": {
+      "male": 5,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/05/01",
+    "total": 4,
+    "imported": 3,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 4,
+      "female": 0
+    }
+  },
+  {
+    "date": "2021/05/02",
+    "total": 5,
+    "imported": 1,
+    "locallyAcquired": 4,
+    "gender": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/05/03",
+    "total": 8,
+    "imported": 6,
+    "locallyAcquired": 2,
+    "gender": {
+      "male": 6,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/05/04",
+    "total": 8,
+    "imported": 8,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 7,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/05/05",
+    "total": 7,
+    "imported": 7,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 5,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/05/06",
+    "total": 13,
+    "imported": 12,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 6,
+      "female": 7
+    }
+  },
+  {
+    "date": "2021/05/07",
+    "total": 5,
+    "imported": 5,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/05/08",
+    "total": 5,
+    "imported": 4,
+    "locallyAcquired": 1,
+    "gender": {
+      "male": 3,
+      "female": 2
+    }
+  },
+  {
+    "date": "2021/05/09",
+    "total": 1,
+    "imported": 1,
+    "locallyAcquired": 0,
+    "gender": {
+      "male": 0,
+      "female": 1
+    }
+  },
+  {
+    "date": "2021/05/10",
+    "total": 15,
+    "imported": 12,
+    "locallyAcquired": 3,
+    "gender": {
+      "male": 12,
+      "female": 3
+    }
+  },
+  {
+    "date": "2021/05/11",
+    "total": 11,
+    "imported": 4,
+    "locallyAcquired": 7,
+    "gender": {
+      "male": 4,
+      "female": 7
+    }
+  },
+  {
+    "date": "2021/05/12",
+    "total": 21,
+    "imported": 5,
+    "locallyAcquired": 16,
+    "gender": {
+      "male": 9,
+      "female": 12
+    }
+  },
+  {
+    "date": "2021/05/13",
+    "total": 25,
+    "imported": 12,
+    "locallyAcquired": 13,
+    "gender": {
+      "male": 18,
+      "female": 7
+    }
+  },
+  {
+    "date": "2021/05/14",
+    "total": 32,
+    "imported": 5,
+    "locallyAcquired": 27,
+    "gender": {
+      "male": 15,
+      "female": 17
+    }
+  },
+  {
+    "date": "2021/05/15",
+    "total": 186,
+    "imported": 5,
+    "locallyAcquired": 181,
+    "gender": {
+      "male": 71,
+      "female": 115
+    }
+  },
+  {
+    "date": "2021/05/16",
+    "total": 204,
+    "imported": 1,
+    "locallyAcquired": 203,
+    "gender": {
+      "male": 88,
+      "female": 116
+    }
+  },
+  {
+    "date": "2021/05/17",
+    "total": 334,
+    "imported": 2,
+    "locallyAcquired": 332,
+    "gender": {
+      "male": 143,
+      "female": 191
+    }
+  },
+  {
+    "date": "2021/05/18",
+    "total": 242,
+    "imported": 5,
+    "locallyAcquired": 237,
+    "gender": {
+      "male": 113,
+      "female": 129
+    }
+  },
+  {
+    "date": "2021/05/19",
+    "total": 274,
+    "imported": 8,
+    "locallyAcquired": 266,
+    "gender": {
+      "male": 131,
+      "female": 143
+    }
+  },
+  {
+    "date": "2021/05/20",
+    "total": 293,
+    "imported": 9,
+    "locallyAcquired": 284,
+    "gender": {
+      "male": 160,
+      "female": 133
+    }
+  },
+  {
+    "date": "2021/05/21",
+    "total": 314,
+    "imported": 3,
+    "locallyAcquired": 311,
+    "gender": {
+      "male": 172,
+      "female": 142
+    }
+  },
+  {
+    "date": "2021/05/22",
+    "total": 722,
+    "imported": 2,
+    "locallyAcquired": 720,
+    "gender": {
+      "male": 349,
+      "female": 373
+    }
+  },
+  {
+    "date": "2021/05/23",
+    "total": 453,
+    "imported": 3,
+    "locallyAcquired": 450,
+    "gender": {
+      "male": 221,
+      "female": 232
+    }
+  },
+  {
+    "date": "2021/05/24",
+    "total": 594,
+    "imported": 5,
+    "locallyAcquired": 589,
+    "gender": {
+      "male": 319,
+      "female": 275
+    }
+  },
+  {
+    "date": "2021/05/25",
+    "total": 536,
+    "imported": 2,
+    "locallyAcquired": 534,
+    "gender": {
+      "male": 302,
+      "female": 234
+    }
+  },
+  {
+    "date": "2021/05/26",
+    "total": 640,
+    "imported": 2,
+    "locallyAcquired": 638,
+    "gender": {
+      "male": 323,
+      "female": 317
+    }
+  },
+  {
+    "date": "2021/05/27",
+    "total": 670,
+    "imported": 4,
+    "locallyAcquired": 666,
+    "gender": {
+      "male": 333,
+      "female": 337
+    }
+  },
+  {
+    "date": "2021/05/28",
+    "total": 555,
+    "imported": 2,
+    "locallyAcquired": 553,
+    "gender": {
+      "male": 290,
+      "female": 265
+    }
+  },
+  {
+    "date": "2021/05/29",
+    "total": 487,
+    "imported": 7,
+    "locallyAcquired": 480,
+    "gender": {
+      "male": 264,
+      "female": 223
+    }
+  },
+  {
+    "date": "2021/05/30",
+    "total": 358,
+    "imported": 0,
+    "locallyAcquired": 358,
+    "gender": {
+      "male": 167,
+      "female": 191
+    }
+  },
+  {
+    "date": "2021/05/31",
+    "total": 351,
+    "imported": 4,
+    "locallyAcquired": 347,
+    "gender": {
+      "male": 167,
+      "female": 184
+    }
+  },
+  {
+    "date": "2021/06/01",
+    "total": 330,
+    "imported": 4,
+    "locallyAcquired": 326,
+    "gender": {
+      "male": 169,
+      "female": 161
+    }
+  },
+  {
+    "date": "2021/06/02",
+    "total": 548,
+    "imported": 0,
+    "locallyAcquired": 548,
+    "gender": {
+      "male": 302,
+      "female": 246
+    }
+  },
+  {
+    "date": "2021/06/03",
+    "total": 580,
+    "imported": 2,
+    "locallyAcquired": 578,
+    "gender": {
+      "male": 304,
+      "female": 276
+    }
+  },
+  {
+    "date": "2021/06/04",
+    "total": 460,
+    "imported": 2,
+    "locallyAcquired": 458,
+    "gender": {
+      "male": 224,
+      "female": 236
+    }
+  },
+  {
+    "date": "2021/06/05",
+    "total": 504,
+    "imported": 0,
+    "locallyAcquired": 504,
+    "gender": {
+      "male": 278,
+      "female": 226
+    }
+  },
+  {
+    "date": "2021/06/06",
+    "total": 321,
+    "imported": 0,
+    "locallyAcquired": 321,
+    "gender": {
+      "male": 175,
+      "female": 146
+    }
+  },
+  {
+    "date": "2021/06/07",
+    "total": 204,
+    "imported": 3,
+    "locallyAcquired": 201,
+    "gender": {
+      "male": 100,
+      "female": 104
+    }
+  },
+  {
+    "date": "2021/06/08",
+    "total": 219,
+    "imported": 0,
+    "locallyAcquired": 219,
+    "gender": {
+      "male": 117,
+      "female": 102
+    }
+  },
+  {
+    "date": "2021/06/09",
+    "total": 273,
+    "imported": 1,
+    "locallyAcquired": 272,
+    "gender": {
+      "male": 142,
+      "female": 131
+    }
+  },
+  {
+    "date": "2021/06/10",
+    "total": 265,
+    "imported": 3,
+    "locallyAcquired": 262,
+    "gender": {
+      "male": 126,
+      "female": 139
+    }
+  },
+  {
+    "date": "2021/06/11",
+    "total": 286,
+    "imported": 1,
+    "locallyAcquired": 285,
+    "gender": {
+      "male": 142,
+      "female": 144
+    }
+  },
+  {
+    "date": "2021/06/12",
+    "total": 250,
+    "imported": 1,
+    "locallyAcquired": 249,
+    "gender": {
+      "male": 115,
+      "female": 135
+    }
+  },
+  {
+    "date": "2021/06/13",
+    "total": 175,
+    "imported": 1,
+    "locallyAcquired": 174,
+    "gender": {
+      "male": 80,
+      "female": 95
+    }
+  },
+  {
+    "date": "2021/06/14",
+    "total": 185,
+    "imported": 0,
+    "locallyAcquired": 185,
+    "gender": {
+      "male": 83,
+      "female": 102
+    }
+  },
+  {
+    "date": "2021/06/15",
+    "total": 135,
+    "imported": 3,
+    "locallyAcquired": 132,
+    "gender": {
+      "male": 64,
+      "female": 71
+    }
+  },
+  {
+    "date": "2021/06/16",
+    "total": 169,
+    "imported": 3,
+    "locallyAcquired": 166,
+    "gender": {
+      "male": 88,
+      "female": 81
+    }
+  },
+  {
+    "date": "2021/06/17",
+    "total": 175,
+    "imported": 0,
+    "locallyAcquired": 175,
+    "gender": {
+      "male": 100,
+      "female": 75
+    }
+  },
+  {
+    "date": "2021/06/18",
+    "total": 186,
+    "imported": 1,
+    "locallyAcquired": 185,
+    "gender": {
+      "male": 82,
+      "female": 104
+    }
+  },
+  {
+    "date": "2021/06/19",
+    "total": 128,
+    "imported": 1,
+    "locallyAcquired": 127,
+    "gender": {
+      "male": 61,
+      "female": 67
+    }
+  },
+  {
+    "date": "2021/06/20",
+    "total": 109,
+    "imported": 2,
+    "locallyAcquired": 107,
+    "gender": {
+      "male": 58,
+      "female": 51
+    }
+  },
+  {
+    "date": "2021/06/21",
+    "total": 74,
+    "imported": 0,
+    "locallyAcquired": 74,
+    "gender": {
+      "male": 34,
+      "female": 40
+    }
+  },
+  {
+    "date": "2021/06/22",
+    "total": 78,
+    "imported": 1,
+    "locallyAcquired": 77,
+    "gender": {
+      "male": 36,
+      "female": 42
+    }
+  },
+  {
+    "date": "2021/06/23",
+    "total": 104,
+    "imported": 0,
+    "locallyAcquired": 104,
+    "gender": {
+      "male": 44,
+      "female": 60
+    }
+  },
+  {
+    "date": "2021/06/24",
+    "total": 130,
+    "imported": 1,
+    "locallyAcquired": 129,
+    "gender": {
+      "male": 64,
+      "female": 66
+    }
+  },
+  {
+    "date": "2021/06/25",
+    "total": 76,
+    "imported": 0,
+    "locallyAcquired": 76,
+    "gender": {
+      "male": 39,
+      "female": 37
+    }
+  },
+  {
+    "date": "2021/06/26",
+    "total": 80,
+    "imported": 2,
+    "locallyAcquired": 78,
+    "gender": {
+      "male": 36,
+      "female": 44
+    }
+  },
+  {
+    "date": "2021/06/27",
+    "total": 89,
+    "imported": 1,
+    "locallyAcquired": 88,
+    "gender": {
+      "male": 49,
+      "female": 40
+    }
+  },
+  {
+    "date": "2021/06/28",
+    "total": 60,
+    "imported": 1,
+    "locallyAcquired": 59,
+    "gender": {
+      "male": 26,
+      "female": 34
+    }
+  },
+  {
+    "date": "2021/06/29",
+    "total": 54,
+    "imported": 0,
+    "locallyAcquired": 54,
+    "gender": {
+      "male": 19,
+      "female": 35
+    }
+  },
+  {
+    "date": "2021/06/30",
+    "total": 56,
+    "imported": 1,
+    "locallyAcquired": 55,
+    "gender": {
+      "male": 31,
+      "female": 25
+    }
+  }
+]
