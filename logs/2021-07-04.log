@@ -1,0 +1,12 @@
+[2021-07-04 01:22:39]	Http Get daily cases from OpenData API
+[2021-07-04 01:22:39]	Daily case file ETag: "23999b-5c64031b9e705"
+[2021-07-04 01:22:39]	Daily cases file lastModfiyTime: 07/03/2021 23:11:38 +00:00
+[2021-07-04 01:22:39]	Output text file: raw_covid19-daily-cases_2021-07-04(01-22-39).json
+[2021-07-04 01:22:40]	Output json file: covid19-daily-cases_2021-07-03_UTC+8.json
+[2021-07-04 01:22:40]	Output json file: covid19-daily-cases_lastDay.json
+[2021-07-04 01:22:40]	Output json file: covid19-daily-age-cases_2021-07-03_UTC+8.json
+[2021-07-04 01:22:40]	Output json file: covid19-daily-age-cases_lastDay.json
+[2021-07-04 01:22:40]	Output json file: covid19-daily-county-cases_2021-07-03_UTC+8.json
+[2021-07-04 01:22:40]	Output json file: covid19-daily-county-cases_lastDay.json
+[2021-07-04 01:22:40]	Output json file: covid19-daily-county-age-cases_2021-07-03_UTC+8.json
+[2021-07-04 01:22:40]	Output json file: covid19-daily-county-age-cases_lastDay.json
