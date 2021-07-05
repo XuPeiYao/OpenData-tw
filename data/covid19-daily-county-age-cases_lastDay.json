@@ -1,43 +1,28 @@
 {
-  "date": "2021/07/03",
-  "total": 80,
+  "date": "2021/07/04",
+  "total": 39,
   "county": {
     "台北市": {
-      "total": 48,
+      "total": 18,
       "ages": {
         "70+": {
-          "total": 3,
+          "total": 4,
           "male": 1,
-          "female": 2
-        },
-        "65-69": {
-          "total": 7,
-          "male": 2,
-          "female": 5
-        },
-        "60-64": {
-          "total": 2,
-          "male": 0,
-          "female": 2
-        },
-        "55-59": {
-          "total": 9,
-          "male": 3,
-          "female": 6
+          "female": 3
         },
         "50-54": {
-          "total": 3,
+          "total": 2,
           "male": 1,
-          "female": 2
+          "female": 1
         },
         "45-49": {
-          "total": 5,
-          "male": 3,
-          "female": 2
+          "total": 1,
+          "male": 1,
+          "female": 0
         },
         "40-44": {
-          "total": 5,
-          "male": 3,
+          "total": 2,
+          "male": 0,
           "female": 2
         },
         "35-39": {
@@ -46,21 +31,16 @@
           "female": 4
         },
         "30-34": {
-          "total": 3,
-          "male": 2,
-          "female": 1
-        },
-        "25-29": {
-          "total": 3,
-          "male": 1,
-          "female": 2
-        },
-        "15-19": {
           "total": 1,
           "male": 0,
           "female": 1
         },
-        "10-14": {
+        "25-29": {
+          "total": 1,
+          "male": 0,
+          "female": 1
+        },
+        "20-24": {
           "total": 2,
           "male": 0,
           "female": 2
@@ -72,59 +52,59 @@
         }
       }
     },
-    "新北市": {
-      "total": 24,
+    "彰化縣": {
+      "total": 3,
       "ages": {
-        "65-69": {
-          "total": 6,
-          "male": 4,
-          "female": 2
-        },
-        "60-64": {
-          "total": 2,
-          "male": 1,
+        "70+": {
+          "total": 1,
+          "male": 0,
           "female": 1
         },
-        "55-59": {
+        "65-69": {
           "total": 2,
           "male": 0,
           "female": 2
-        },
-        "45-49": {
-          "total": 4,
-          "male": 3,
-          "female": 1
-        },
-        "40-44": {
-          "total": 3,
-          "male": 1,
-          "female": 2
-        },
-        "35-39": {
+        }
+      }
+    },
+    "新北市": {
+      "total": 11,
+      "ages": {
+        "65-69": {
           "total": 1,
           "male": 1,
           "female": 0
         },
-        "30-34": {
+        "55-59": {
           "total": 2,
-          "male": 1,
-          "female": 1
+          "male": 2,
+          "female": 0
         },
-        "25-29": {
-          "total": 3,
+        "50-54": {
+          "total": 1,
           "male": 1,
+          "female": 0
+        },
+        "45-49": {
+          "total": 2,
+          "male": 0,
           "female": 2
         },
-        "20-24": {
+        "35-39": {
           "total": 1,
           "male": 0,
           "female": 1
-        }
-      }
-    },
-    "新竹市": {
-      "total": 1,
-      "ages": {
+        },
+        "30-34": {
+          "total": 2,
+          "male": 0,
+          "female": 2
+        },
+        "25-29": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        },
         "15-19": {
           "total": 1,
           "male": 1,
@@ -135,17 +115,12 @@
     "桃園市": {
       "total": 3,
       "ages": {
-        "50-54": {
-          "total": 1,
-          "male": 0,
+        "70+": {
+          "total": 2,
+          "male": 1,
           "female": 1
         },
-        "40-44": {
-          "total": 1,
-          "male": 1,
-          "female": 0
-        },
-        "25-29": {
+        "50-54": {
           "total": 1,
           "male": 0,
           "female": 1
@@ -155,22 +130,22 @@
     "境外": {
       "total": 4,
       "ages": {
-        "60-64": {
+        "55-59": {
           "total": 1,
           "male": 0,
           "female": 1
         },
-        "50-54": {
+        "40-44": {
+          "total": 1,
+          "male": 0,
+          "female": 1
+        },
+        "30-34": {
           "total": 1,
           "male": 1,
           "female": 0
         },
-        "20-24": {
-          "total": 1,
-          "male": 1,
-          "female": 0
-        },
-        "15-19": {
+        "25-29": {
           "total": 1,
           "male": 1,
           "female": 0
