@@ -1,80 +1,20 @@
 {
-  "date": "2021/07/05",
-  "total": 31,
+  "date": "2021/07/06",
+  "total": 29,
   "county": {
     "台北市": {
       "total": 14,
       "ages": {
         "70+": {
           "total": 1,
-          "male": 0,
-          "female": 1
-        },
-        "65-69": {
-          "total": 3,
-          "male": 1,
-          "female": 2
-        },
-        "60-64": {
-          "total": 2,
-          "male": 0,
-          "female": 2
-        },
-        "55-59": {
-          "total": 1,
-          "male": 0,
-          "female": 1
-        },
-        "50-54": {
-          "total": 1,
           "male": 1,
           "female": 0
         },
-        "45-49": {
-          "total": 1,
-          "male": 0,
-          "female": 1
-        },
-        "40-44": {
-          "total": 3,
-          "male": 2,
-          "female": 1
-        },
-        "05-09": {
-          "total": 1,
-          "male": 0,
-          "female": 1
-        },
-        "00-04": {
-          "total": 1,
-          "male": 0,
-          "female": 1
-        }
-      }
-    },
-    "基隆市": {
-      "total": 1,
-      "ages": {
-        "40-44": {
-          "total": 1,
-          "male": 1,
-          "female": 0
-        }
-      }
-    },
-    "屏東縣": {
-      "total": 1,
-      "ages": {
         "65-69": {
           "total": 1,
           "male": 0,
           "female": 1
-        }
-      }
-    },
-    "新北市": {
-      "total": 6,
-      "ages": {
+        },
         "55-59": {
           "total": 1,
           "male": 1,
@@ -91,74 +31,99 @@
           "female": 0
         },
         "35-39": {
-          "total": 2,
-          "male": 0,
-          "female": 2
+          "total": 3,
+          "male": 2,
+          "female": 1
         },
         "25-29": {
+          "total": 2,
+          "male": 2,
+          "female": 0
+        },
+        "10-14": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        },
+        "05-09": {
           "total": 1,
           "male": 0,
           "female": 1
+        },
+        "00-04": {
+          "total": 2,
+          "male": 2,
+          "female": 0
         }
       }
     },
-    "新竹縣": {
+    "屏東縣": {
       "total": 1,
       "ages": {
-        "70+": {
+        "30-34": {
           "total": 1,
-          "male": 0,
-          "female": 1
+          "male": 1,
+          "female": 0
         }
       }
     },
-    "桃園市": {
-      "total": 3,
-      "ages": {
-        "70+": {
-          "total": 1,
-          "male": 0,
-          "female": 1
-        },
-        "65-69": {
-          "total": 1,
-          "male": 0,
-          "female": 1
-        },
-        "60-64": {
-          "total": 1,
-          "male": 0,
-          "female": 1
-        }
-      }
-    },
-    "境外": {
-      "total": 3,
+    "彰化縣": {
+      "total": 1,
       "ages": {
         "55-59": {
           "total": 1,
           "male": 1,
           "female": 0
+        }
+      }
+    },
+    "新北市": {
+      "total": 11,
+      "ages": {
+        "55-59": {
+          "total": 3,
+          "male": 1,
+          "female": 2
         },
-        "25-29": {
+        "40-44": {
+          "total": 2,
+          "male": 1,
+          "female": 1
+        },
+        "35-39": {
+          "total": 2,
+          "male": 1,
+          "female": 1
+        },
+        "30-34": {
+          "total": 2,
+          "male": 0,
+          "female": 2
+        },
+        "20-24": {
+          "total": 1,
+          "male": 0,
+          "female": 1
+        },
+        "00-04": {
+          "total": 1,
+          "male": 1,
+          "female": 0
+        }
+      }
+    },
+    "境外": {
+      "total": 2,
+      "ages": {
+        "30-34": {
           "total": 1,
           "male": 1,
           "female": 0
         },
-        "00-04": {
+        "10-14": {
           "total": 1,
-          "male": 0,
-          "female": 1
-        }
-      }
-    },
-    "苗栗縣": {
-      "total": 2,
-      "ages": {
-        "70+": {
-          "total": 2,
           "male": 1,
-          "female": 1
+          "female": 0
         }
       }
     }
