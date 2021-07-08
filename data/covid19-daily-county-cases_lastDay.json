@@ -1,40 +1,33 @@
 {
-  "date": "2021/07/06",
-  "total": 29,
+  "date": "2021/07/07",
+  "total": 40,
   "county": {
     "台北市": {
       "total": 14,
       "gender": {
-        "male": 11,
-        "female": 3
-      }
-    },
-    "屏東縣": {
-      "total": 1,
-      "gender": {
-        "male": 1,
-        "female": 0
-      }
-    },
-    "彰化縣": {
-      "total": 1,
-      "gender": {
-        "male": 1,
-        "female": 0
+        "male": 8,
+        "female": 6
       }
     },
     "新北市": {
-      "total": 11,
+      "total": 14,
       "gender": {
-        "male": 4,
+        "male": 7,
         "female": 7
       }
     },
-    "境外": {
-      "total": 2,
+    "桃園市": {
+      "total": 11,
       "gender": {
-        "male": 2,
-        "female": 0
+        "male": 6,
+        "female": 5
+      }
+    },
+    "境外": {
+      "total": 1,
+      "gender": {
+        "male": 0,
+        "female": 1
       }
     }
   }

@@ -1,66 +1,71 @@
 {
-  "date": "2021/07/06",
-  "total": 29,
+  "date": "2021/07/07",
+  "total": 40,
   "ages": {
     "70+": {
+      "total": 8,
+      "male": 4,
+      "female": 4
+    },
+    "65-69": {
       "total": 1,
       "male": 1,
       "female": 0
     },
-    "65-69": {
+    "60-64": {
+      "total": 1,
+      "male": 1,
+      "female": 0
+    },
+    "55-59": {
+      "total": 3,
+      "male": 3,
+      "female": 0
+    },
+    "50-54": {
       "total": 1,
       "male": 0,
       "female": 1
     },
-    "55-59": {
-      "total": 5,
-      "male": 3,
-      "female": 2
-    },
-    "50-54": {
-      "total": 1,
+    "45-49": {
+      "total": 2,
       "male": 1,
-      "female": 0
-    },
-    "40-44": {
-      "total": 3,
-      "male": 2,
       "female": 1
     },
-    "35-39": {
-      "total": 5,
-      "male": 3,
-      "female": 2
+    "40-44": {
+      "total": 8,
+      "male": 4,
+      "female": 4
     },
-    "30-34": {
-      "total": 4,
-      "male": 2,
+    "35-39": {
+      "total": 3,
+      "male": 1,
       "female": 2
     },
     "25-29": {
       "total": 2,
-      "male": 2,
-      "female": 0
-    },
-    "20-24": {
-      "total": 1,
-      "male": 0,
+      "male": 1,
       "female": 1
     },
-    "10-14": {
+    "20-24": {
       "total": 2,
       "male": 2,
       "female": 0
     },
-    "05-09": {
-      "total": 1,
-      "male": 0,
+    "15-19": {
+      "total": 2,
+      "male": 1,
       "female": 1
     },
-    "00-04": {
+    "10-14": {
+      "total": 4,
+      "male": 0,
+      "female": 4
+    },
+    "05-09": {
       "total": 3,
-      "male": 3,
-      "female": 0
+      "male": 2,
+      "female": 1
     }
   }
 }
