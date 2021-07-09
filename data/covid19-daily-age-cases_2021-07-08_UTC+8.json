@@ -1,0 +1,10502 @@
+[
+  {
+    "date": "2020/01/22",
+    "total": 1,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/01/24",
+    "total": 2,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/01/26",
+    "total": 1,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/01/27",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/01/28",
+    "total": 3,
+    "ages": {
+      "70+": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/01/30",
+    "total": 1,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/01/31",
+    "total": 1,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/02/04",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/02/06",
+    "total": 3,
+    "ages": {
+      "45-49": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/02/07",
+    "total": 2,
+    "ages": {
+      "50-54": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/02/08",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/02/09",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/02/16",
+    "total": 2,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/02/18",
+    "total": 2,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/02/19",
+    "total": 1,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/02/20",
+    "total": 1,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/02/21",
+    "total": 2,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/02/23",
+    "total": 2,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/02/24",
+    "total": 2,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/02/25",
+    "total": 1,
+    "ages": {
+      "10-14": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/02/26",
+    "total": 1,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/02/28",
+    "total": 2,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/02/29",
+    "total": 5,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/03/01",
+    "total": 1,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/02",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/03",
+    "total": 1,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/05",
+    "total": 2,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/03/06",
+    "total": 1,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/10",
+    "total": 2,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/03/11",
+    "total": 1,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/12",
+    "total": 1,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/13",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/03/14",
+    "total": 3,
+    "ages": {
+      "35-39": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/03/15",
+    "total": 5,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/16",
+    "total": 8,
+    "ages": {
+      "60-64": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "55-59": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/03/17",
+    "total": 11,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "60-64": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/18",
+    "total": 23,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "45-49": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "25-29": {
+        "total": 9,
+        "male": 5,
+        "female": 4
+      },
+      "20-24": {
+        "total": 4,
+        "male": 0,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2020/03/19",
+    "total": 8,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/03/20",
+    "total": 26,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "35-39": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "30-34": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "25-29": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "20-24": {
+        "total": 7,
+        "male": 1,
+        "female": 6
+      },
+      "15-19": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/03/21",
+    "total": 19,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "55-59": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "25-29": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "20-24": {
+        "total": 7,
+        "male": 1,
+        "female": 6
+      }
+    }
+  },
+  {
+    "date": "2020/03/22",
+    "total": 16,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "60-64": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "20-24": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "15-19": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/23",
+    "total": 26,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "30-34": {
+        "total": 7,
+        "male": 3,
+        "female": 4
+      },
+      "25-29": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "20-24": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/03/24",
+    "total": 21,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "25-29": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "20-24": {
+        "total": 7,
+        "male": 3,
+        "female": 4
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "05-09": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/25",
+    "total": 19,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "25-29": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "20-24": {
+        "total": 10,
+        "male": 4,
+        "female": 6
+      },
+      "15-19": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/03/26",
+    "total": 17,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "60-64": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2020/03/27",
+    "total": 15,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "55-59": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 5,
+        "male": 5,
+        "female": 0
+      },
+      "20-24": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/28",
+    "total": 16,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "50-54": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "25-29": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "20-24": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "15-19": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      }
+    }
+  },
+  {
+    "date": "2020/03/29",
+    "total": 15,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "15-19": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/03/30",
+    "total": 8,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "05-09": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/03/31",
+    "total": 16,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "25-29": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      },
+      "20-24": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/04/01",
+    "total": 7,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/04/02",
+    "total": 10,
+    "ages": {
+      "65-69": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/04/03",
+    "total": 9,
+    "ages": {
+      "65-69": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "45-49": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/04/04",
+    "total": 7,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/04/05",
+    "total": 8,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "60-64": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/04/06",
+    "total": 10,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "25-29": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/04/07",
+    "total": 3,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/04/08",
+    "total": 3,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/04/09",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/04/10",
+    "total": 2,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/04/11",
+    "total": 3,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/04/12",
+    "total": 3,
+    "ages": {
+      "40-44": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/04/13",
+    "total": 5,
+    "ages": {
+      "60-64": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "55-59": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/04/15",
+    "total": 2,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/04/18",
+    "total": 3,
+    "ages": {
+      "20-24": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/04/19",
+    "total": 22,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      },
+      "30-34": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "25-29": {
+        "total": 9,
+        "male": 9,
+        "female": 0
+      },
+      "20-24": {
+        "total": 7,
+        "male": 5,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/04/20",
+    "total": 2,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/04/21",
+    "total": 3,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/04/22",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/04/23",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/04/24",
+    "total": 1,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/04/25",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/05/02",
+    "total": 3,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/05/03",
+    "total": 3,
+    "ages": {
+      "20-24": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/05/04",
+    "total": 3,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/05/06",
+    "total": 1,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/05/07",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/05/21",
+    "total": 1,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/05/29",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/06/01",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/06/15",
+    "total": 2,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/06/18",
+    "total": 1,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/06/25",
+    "total": 1,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/07/02",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/07/03",
+    "total": 1,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/07/10",
+    "total": 2,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/07/16",
+    "total": 1,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/07/17",
+    "total": 2,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/07/19",
+    "total": 1,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/07/24",
+    "total": 3,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/07/27",
+    "total": 4,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/07/28",
+    "total": 5,
+    "ages": {
+      "70+": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/08/01",
+    "total": 7,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/08/02",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/08/04",
+    "total": 1,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/08/06",
+    "total": 1,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/08/08",
+    "total": 2,
+    "ages": {
+      "60-64": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/08/09",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/08/12",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/08/15",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/08/16",
+    "total": 1,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/08/17",
+    "total": 2,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/08/18",
+    "total": 1,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/08/21",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/08/29",
+    "total": 1,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/09/02",
+    "total": 1,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/09/04",
+    "total": 1,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/09/05",
+    "total": 2,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/09/06",
+    "total": 1,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/09/07",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/09/08",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/09/10",
+    "total": 1,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/09/11",
+    "total": 2,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/09/14",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/09/16",
+    "total": 1,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/09/17",
+    "total": 3,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/09/19",
+    "total": 3,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/09/20",
+    "total": 1,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/09/21",
+    "total": 2,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/09/25",
+    "total": 1,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/09/28",
+    "total": 3,
+    "ages": {
+      "40-44": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/09/30",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/10/01",
+    "total": 1,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/10/02",
+    "total": 2,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/10/05",
+    "total": 1,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/10/06",
+    "total": 3,
+    "ages": {
+      "30-34": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/10/07",
+    "total": 2,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/10/08",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/10/09",
+    "total": 3,
+    "ages": {
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/10/12",
+    "total": 2,
+    "ages": {
+      "25-29": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/10/15",
+    "total": 1,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/10/16",
+    "total": 4,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/10/19",
+    "total": 5,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/10/20",
+    "total": 3,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/10/21",
+    "total": 1,
+    "ages": {
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/10/22",
+    "total": 4,
+    "ages": {
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/10/24",
+    "total": 2,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/10/28",
+    "total": 1,
+    "ages": {
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/10/29",
+    "total": 3,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/10/30",
+    "total": 1,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/10/31",
+    "total": 1,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/11/01",
+    "total": 3,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/02",
+    "total": 5,
+    "ages": {
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/03",
+    "total": 4,
+    "ages": {
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "15-19": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/04",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/05",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/06",
+    "total": 4,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/11/08",
+    "total": 4,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/11/09",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/10",
+    "total": 2,
+    "ages": {
+      "35-39": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/11/11",
+    "total": 4,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/12",
+    "total": 5,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/13",
+    "total": 8,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/14",
+    "total": 3,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/15",
+    "total": 2,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/16",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/17",
+    "total": 2,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/11/18",
+    "total": 2,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/19",
+    "total": 2,
+    "ages": {
+      "25-29": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/11/20",
+    "total": 2,
+    "ages": {
+      "30-34": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/11/22",
+    "total": 6,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2020/11/23",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/11/25",
+    "total": 5,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/26",
+    "total": 2,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/11/27",
+    "total": 14,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 5,
+        "male": 0,
+        "female": 5
+      },
+      "20-24": {
+        "total": 6,
+        "male": 0,
+        "female": 6
+      }
+    }
+  },
+  {
+    "date": "2020/11/28",
+    "total": 9,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      }
+    }
+  },
+  {
+    "date": "2020/11/29",
+    "total": 3,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/11/30",
+    "total": 24,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "35-39": {
+        "total": 5,
+        "male": 0,
+        "female": 5
+      },
+      "30-34": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "25-29": {
+        "total": 6,
+        "male": 1,
+        "female": 5
+      },
+      "20-24": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2020/12/01",
+    "total": 4,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/02",
+    "total": 6,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/03",
+    "total": 1,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/04",
+    "total": 4,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/05",
+    "total": 4,
+    "ages": {
+      "35-39": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/06",
+    "total": 22,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 4,
+        "male": 0,
+        "female": 4
+      },
+      "35-39": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "30-34": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "25-29": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      },
+      "20-24": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2020/12/08",
+    "total": 2,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/09",
+    "total": 2,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/10",
+    "total": 4,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/11",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/12",
+    "total": 8,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/13",
+    "total": 3,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/14",
+    "total": 4,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/15",
+    "total": 2,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/16",
+    "total": 7,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/12/17",
+    "total": 8,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/18",
+    "total": 2,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/19",
+    "total": 4,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/20",
+    "total": 3,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/22",
+    "total": 4,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2020/12/23",
+    "total": 6,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/25",
+    "total": 4,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/26",
+    "total": 3,
+    "ages": {
+      "25-29": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/27",
+    "total": 2,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/28",
+    "total": 8,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "10-14": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/29",
+    "total": 2,
+    "ages": {
+      "35-39": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2020/12/30",
+    "total": 2,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2020/12/31",
+    "total": 2,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/01",
+    "total": 3,
+    "ages": {
+      "25-29": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/02",
+    "total": 6,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/03",
+    "total": 4,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/01/04",
+    "total": 3,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/05",
+    "total": 2,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/06",
+    "total": 2,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/07",
+    "total": 3,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/08",
+    "total": 3,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "05-09": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/09",
+    "total": 3,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/11",
+    "total": 6,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "10-14": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/12",
+    "total": 4,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/13",
+    "total": 4,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/15",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/16",
+    "total": 8,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "25-29": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/17",
+    "total": 4,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/18",
+    "total": 7,
+    "ages": {
+      "50-54": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "40-44": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "05-09": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/19",
+    "total": 6,
+    "ages": {
+      "50-54": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/20",
+    "total": 2,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/21",
+    "total": 3,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/22",
+    "total": 8,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/23",
+    "total": 3,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/24",
+    "total": 3,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/25",
+    "total": 2,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/26",
+    "total": 1,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/27",
+    "total": 3,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/28",
+    "total": 2,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/01/29",
+    "total": 4,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/01/30",
+    "total": 10,
+    "ages": {
+      "70+": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "05-09": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/01/31",
+    "total": 2,
+    "ages": {
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/02/01",
+    "total": 1,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/02",
+    "total": 3,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/03",
+    "total": 2,
+    "ages": {
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/04",
+    "total": 2,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/05",
+    "total": 4,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/06",
+    "total": 1,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/07",
+    "total": 3,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/08",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/02/09",
+    "total": 5,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "55-59": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/02/10",
+    "total": 2,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/11",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/12",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/17",
+    "total": 1,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/02/18",
+    "total": 2,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/02/19",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/20",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/02/24",
+    "total": 4,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/02/25",
+    "total": 5,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "20-24": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/02/27",
+    "total": 3,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/02/28",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/03",
+    "total": 3,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/04",
+    "total": 2,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/06",
+    "total": 7,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 4,
+        "male": 4,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/07",
+    "total": 2,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/03/08",
+    "total": 7,
+    "ages": {
+      "30-34": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/03/09",
+    "total": 1,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/03/10",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/12",
+    "total": 6,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/14",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/03/15",
+    "total": 5,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/18",
+    "total": 8,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "30-34": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/03/19",
+    "total": 6,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/20",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/21",
+    "total": 1,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/23",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/24",
+    "total": 2,
+    "ages": {
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/03/25",
+    "total": 3,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/26",
+    "total": 1,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/27",
+    "total": 7,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/28",
+    "total": 2,
+    "ages": {
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/03/29",
+    "total": 1,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/03/30",
+    "total": 1,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/03/31",
+    "total": 6,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/01",
+    "total": 6,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/02",
+    "total": 3,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/03",
+    "total": 6,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/04/04",
+    "total": 2,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/05",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/04/06",
+    "total": 2,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/09",
+    "total": 4,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/04/10",
+    "total": 2,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/11",
+    "total": 1,
+    "ages": {
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/04/12",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/04/13",
+    "total": 4,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/14",
+    "total": 5,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/04/15",
+    "total": 1,
+    "ages": {
+      "00-04": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/04/16",
+    "total": 2,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/17",
+    "total": 2,
+    "ages": {
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/18",
+    "total": 1,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/19",
+    "total": 3,
+    "ages": {
+      "30-34": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/20",
+    "total": 2,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/21",
+    "total": 4,
+    "ages": {
+      "40-44": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/04/22",
+    "total": 4,
+    "ages": {
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/04/23",
+    "total": 4,
+    "ages": {
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/24",
+    "total": 7,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/25",
+    "total": 3,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/26",
+    "total": 4,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/27",
+    "total": 6,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/04/28",
+    "total": 6,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "10-14": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/04/29",
+    "total": 5,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/04/30",
+    "total": 7,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/01",
+    "total": 4,
+    "ages": {
+      "40-44": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/05/02",
+    "total": 5,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "00-04": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/03",
+    "total": 8,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "15-19": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/04",
+    "total": 8,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/05",
+    "total": 7,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "15-19": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/05/06",
+    "total": 13,
+    "ages": {
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "20-24": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/07",
+    "total": 5,
+    "ages": {
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/08",
+    "total": 5,
+    "ages": {
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "35-39": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/05/09",
+    "total": 1,
+    "ages": {
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/10",
+    "total": 15,
+    "ages": {
+      "50-54": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      },
+      "45-49": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "40-44": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "15-19": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "10-14": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/11",
+    "total": 11,
+    "ages": {
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "55-59": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/12",
+    "total": 21,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "65-69": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "60-64": {
+        "total": 5,
+        "male": 2,
+        "female": 3
+      },
+      "55-59": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "50-54": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "30-34": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "05-09": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/05/13",
+    "total": 25,
+    "ages": {
+      "70+": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "60-64": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "25-29": {
+        "total": 7,
+        "male": 6,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/05/14",
+    "total": 32,
+    "ages": {
+      "70+": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "65-69": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "60-64": {
+        "total": 10,
+        "male": 8,
+        "female": 2
+      },
+      "55-59": {
+        "total": 7,
+        "male": 1,
+        "female": 6
+      },
+      "50-54": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "45-49": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "10-14": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/15",
+    "total": 186,
+    "ages": {
+      "70+": {
+        "total": 24,
+        "male": 21,
+        "female": 3
+      },
+      "65-69": {
+        "total": 22,
+        "male": 12,
+        "female": 10
+      },
+      "60-64": {
+        "total": 14,
+        "male": 4,
+        "female": 10
+      },
+      "55-59": {
+        "total": 32,
+        "male": 9,
+        "female": 23
+      },
+      "50-54": {
+        "total": 24,
+        "male": 4,
+        "female": 20
+      },
+      "45-49": {
+        "total": 18,
+        "male": 3,
+        "female": 15
+      },
+      "40-44": {
+        "total": 16,
+        "male": 4,
+        "female": 12
+      },
+      "35-39": {
+        "total": 16,
+        "male": 5,
+        "female": 11
+      },
+      "30-34": {
+        "total": 8,
+        "male": 2,
+        "female": 6
+      },
+      "25-29": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "20-24": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "15-19": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/05/16",
+    "total": 204,
+    "ages": {
+      "70+": {
+        "total": 18,
+        "male": 14,
+        "female": 4
+      },
+      "65-69": {
+        "total": 19,
+        "male": 11,
+        "female": 8
+      },
+      "60-64": {
+        "total": 26,
+        "male": 9,
+        "female": 17
+      },
+      "55-59": {
+        "total": 36,
+        "male": 16,
+        "female": 20
+      },
+      "50-54": {
+        "total": 31,
+        "male": 5,
+        "female": 26
+      },
+      "45-49": {
+        "total": 19,
+        "male": 5,
+        "female": 14
+      },
+      "40-44": {
+        "total": 13,
+        "male": 4,
+        "female": 9
+      },
+      "35-39": {
+        "total": 15,
+        "male": 6,
+        "female": 9
+      },
+      "30-34": {
+        "total": 7,
+        "male": 6,
+        "female": 1
+      },
+      "25-29": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "20-24": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "15-19": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "10-14": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "00-04": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/17",
+    "total": 334,
+    "ages": {
+      "70+": {
+        "total": 48,
+        "male": 27,
+        "female": 21
+      },
+      "65-69": {
+        "total": 32,
+        "male": 18,
+        "female": 14
+      },
+      "60-64": {
+        "total": 54,
+        "male": 30,
+        "female": 24
+      },
+      "55-59": {
+        "total": 44,
+        "male": 17,
+        "female": 27
+      },
+      "50-54": {
+        "total": 49,
+        "male": 14,
+        "female": 35
+      },
+      "45-49": {
+        "total": 33,
+        "male": 5,
+        "female": 28
+      },
+      "40-44": {
+        "total": 21,
+        "male": 8,
+        "female": 13
+      },
+      "35-39": {
+        "total": 14,
+        "male": 6,
+        "female": 8
+      },
+      "30-34": {
+        "total": 13,
+        "male": 5,
+        "female": 8
+      },
+      "25-29": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "20-24": {
+        "total": 9,
+        "male": 5,
+        "female": 4
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "10-14": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "05-09": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "00-04": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/18",
+    "total": 242,
+    "ages": {
+      "70+": {
+        "total": 27,
+        "male": 22,
+        "female": 5
+      },
+      "65-69": {
+        "total": 42,
+        "male": 22,
+        "female": 20
+      },
+      "60-64": {
+        "total": 21,
+        "male": 11,
+        "female": 10
+      },
+      "55-59": {
+        "total": 29,
+        "male": 9,
+        "female": 20
+      },
+      "50-54": {
+        "total": 32,
+        "male": 16,
+        "female": 16
+      },
+      "45-49": {
+        "total": 19,
+        "male": 8,
+        "female": 11
+      },
+      "40-44": {
+        "total": 18,
+        "male": 4,
+        "female": 14
+      },
+      "35-39": {
+        "total": 14,
+        "male": 7,
+        "female": 7
+      },
+      "30-34": {
+        "total": 10,
+        "male": 4,
+        "female": 6
+      },
+      "25-29": {
+        "total": 14,
+        "male": 6,
+        "female": 8
+      },
+      "20-24": {
+        "total": 4,
+        "male": 0,
+        "female": 4
+      },
+      "15-19": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "10-14": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "05-09": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "00-04": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/19",
+    "total": 274,
+    "ages": {
+      "70+": {
+        "total": 50,
+        "male": 33,
+        "female": 17
+      },
+      "65-69": {
+        "total": 33,
+        "male": 21,
+        "female": 12
+      },
+      "60-64": {
+        "total": 27,
+        "male": 13,
+        "female": 14
+      },
+      "55-59": {
+        "total": 38,
+        "male": 17,
+        "female": 21
+      },
+      "50-54": {
+        "total": 23,
+        "male": 10,
+        "female": 13
+      },
+      "45-49": {
+        "total": 27,
+        "male": 8,
+        "female": 19
+      },
+      "40-44": {
+        "total": 19,
+        "male": 7,
+        "female": 12
+      },
+      "35-39": {
+        "total": 14,
+        "male": 4,
+        "female": 10
+      },
+      "30-34": {
+        "total": 14,
+        "male": 2,
+        "female": 12
+      },
+      "25-29": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "20-24": {
+        "total": 6,
+        "male": 4,
+        "female": 2
+      },
+      "15-19": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "10-14": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "05-09": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "00-04": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/05/20",
+    "total": 293,
+    "ages": {
+      "70+": {
+        "total": 44,
+        "male": 29,
+        "female": 15
+      },
+      "65-69": {
+        "total": 44,
+        "male": 28,
+        "female": 16
+      },
+      "60-64": {
+        "total": 39,
+        "male": 22,
+        "female": 17
+      },
+      "55-59": {
+        "total": 31,
+        "male": 16,
+        "female": 15
+      },
+      "50-54": {
+        "total": 28,
+        "male": 16,
+        "female": 12
+      },
+      "45-49": {
+        "total": 21,
+        "male": 8,
+        "female": 13
+      },
+      "40-44": {
+        "total": 19,
+        "male": 6,
+        "female": 13
+      },
+      "35-39": {
+        "total": 16,
+        "male": 8,
+        "female": 8
+      },
+      "30-34": {
+        "total": 14,
+        "male": 8,
+        "female": 6
+      },
+      "25-29": {
+        "total": 14,
+        "male": 10,
+        "female": 4
+      },
+      "20-24": {
+        "total": 9,
+        "male": 6,
+        "female": 3
+      },
+      "15-19": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      },
+      "10-14": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "05-09": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "00-04": {
+        "total": 4,
+        "male": 0,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2021/05/21",
+    "total": 314,
+    "ages": {
+      "70+": {
+        "total": 70,
+        "male": 54,
+        "female": 16
+      },
+      "65-69": {
+        "total": 36,
+        "male": 21,
+        "female": 15
+      },
+      "60-64": {
+        "total": 37,
+        "male": 16,
+        "female": 21
+      },
+      "55-59": {
+        "total": 32,
+        "male": 13,
+        "female": 19
+      },
+      "50-54": {
+        "total": 33,
+        "male": 15,
+        "female": 18
+      },
+      "45-49": {
+        "total": 15,
+        "male": 6,
+        "female": 9
+      },
+      "40-44": {
+        "total": 19,
+        "male": 10,
+        "female": 9
+      },
+      "35-39": {
+        "total": 17,
+        "male": 11,
+        "female": 6
+      },
+      "30-34": {
+        "total": 14,
+        "male": 8,
+        "female": 6
+      },
+      "25-29": {
+        "total": 14,
+        "male": 5,
+        "female": 9
+      },
+      "20-24": {
+        "total": 15,
+        "male": 4,
+        "female": 11
+      },
+      "15-19": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "10-14": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "05-09": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/05/22",
+    "total": 722,
+    "ages": {
+      "70+": {
+        "total": 77,
+        "male": 52,
+        "female": 25
+      },
+      "65-69": {
+        "total": 81,
+        "male": 46,
+        "female": 35
+      },
+      "60-64": {
+        "total": 110,
+        "male": 52,
+        "female": 58
+      },
+      "55-59": {
+        "total": 92,
+        "male": 42,
+        "female": 50
+      },
+      "50-54": {
+        "total": 94,
+        "male": 41,
+        "female": 53
+      },
+      "45-49": {
+        "total": 63,
+        "male": 25,
+        "female": 38
+      },
+      "40-44": {
+        "total": 55,
+        "male": 21,
+        "female": 34
+      },
+      "35-39": {
+        "total": 43,
+        "male": 17,
+        "female": 26
+      },
+      "30-34": {
+        "total": 28,
+        "male": 15,
+        "female": 13
+      },
+      "25-29": {
+        "total": 31,
+        "male": 16,
+        "female": 15
+      },
+      "20-24": {
+        "total": 18,
+        "male": 11,
+        "female": 7
+      },
+      "15-19": {
+        "total": 11,
+        "male": 3,
+        "female": 8
+      },
+      "10-14": {
+        "total": 4,
+        "male": 0,
+        "female": 4
+      },
+      "05-09": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "00-04": {
+        "total": 10,
+        "male": 5,
+        "female": 5
+      }
+    }
+  },
+  {
+    "date": "2021/05/23",
+    "total": 453,
+    "ages": {
+      "70+": {
+        "total": 67,
+        "male": 44,
+        "female": 23
+      },
+      "65-69": {
+        "total": 58,
+        "male": 31,
+        "female": 27
+      },
+      "60-64": {
+        "total": 63,
+        "male": 34,
+        "female": 29
+      },
+      "55-59": {
+        "total": 52,
+        "male": 26,
+        "female": 26
+      },
+      "50-54": {
+        "total": 42,
+        "male": 15,
+        "female": 27
+      },
+      "45-49": {
+        "total": 35,
+        "male": 14,
+        "female": 21
+      },
+      "40-44": {
+        "total": 29,
+        "male": 11,
+        "female": 18
+      },
+      "35-39": {
+        "total": 37,
+        "male": 13,
+        "female": 24
+      },
+      "30-34": {
+        "total": 18,
+        "male": 9,
+        "female": 9
+      },
+      "25-29": {
+        "total": 18,
+        "male": 9,
+        "female": 9
+      },
+      "20-24": {
+        "total": 14,
+        "male": 5,
+        "female": 9
+      },
+      "15-19": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "10-14": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "05-09": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "00-04": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      }
+    }
+  },
+  {
+    "date": "2021/05/24",
+    "total": 594,
+    "ages": {
+      "70+": {
+        "total": 79,
+        "male": 49,
+        "female": 30
+      },
+      "65-69": {
+        "total": 90,
+        "male": 63,
+        "female": 27
+      },
+      "60-64": {
+        "total": 72,
+        "male": 39,
+        "female": 33
+      },
+      "55-59": {
+        "total": 80,
+        "male": 39,
+        "female": 41
+      },
+      "50-54": {
+        "total": 70,
+        "male": 31,
+        "female": 39
+      },
+      "45-49": {
+        "total": 41,
+        "male": 17,
+        "female": 24
+      },
+      "40-44": {
+        "total": 38,
+        "male": 18,
+        "female": 20
+      },
+      "35-39": {
+        "total": 42,
+        "male": 19,
+        "female": 23
+      },
+      "30-34": {
+        "total": 29,
+        "male": 17,
+        "female": 12
+      },
+      "25-29": {
+        "total": 18,
+        "male": 9,
+        "female": 9
+      },
+      "20-24": {
+        "total": 12,
+        "male": 6,
+        "female": 6
+      },
+      "15-19": {
+        "total": 14,
+        "male": 8,
+        "female": 6
+      },
+      "10-14": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "05-09": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "00-04": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/25",
+    "total": 536,
+    "ages": {
+      "70+": {
+        "total": 71,
+        "male": 51,
+        "female": 20
+      },
+      "65-69": {
+        "total": 73,
+        "male": 49,
+        "female": 24
+      },
+      "60-64": {
+        "total": 77,
+        "male": 54,
+        "female": 23
+      },
+      "55-59": {
+        "total": 55,
+        "male": 23,
+        "female": 32
+      },
+      "50-54": {
+        "total": 43,
+        "male": 22,
+        "female": 21
+      },
+      "45-49": {
+        "total": 40,
+        "male": 22,
+        "female": 18
+      },
+      "40-44": {
+        "total": 43,
+        "male": 20,
+        "female": 23
+      },
+      "35-39": {
+        "total": 25,
+        "male": 8,
+        "female": 17
+      },
+      "30-34": {
+        "total": 36,
+        "male": 15,
+        "female": 21
+      },
+      "25-29": {
+        "total": 27,
+        "male": 11,
+        "female": 16
+      },
+      "20-24": {
+        "total": 16,
+        "male": 7,
+        "female": 9
+      },
+      "15-19": {
+        "total": 12,
+        "male": 8,
+        "female": 4
+      },
+      "10-14": {
+        "total": 12,
+        "male": 8,
+        "female": 4
+      },
+      "05-09": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "00-04": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/05/26",
+    "total": 640,
+    "ages": {
+      "70+": {
+        "total": 88,
+        "male": 48,
+        "female": 40
+      },
+      "65-69": {
+        "total": 79,
+        "male": 51,
+        "female": 28
+      },
+      "60-64": {
+        "total": 82,
+        "male": 41,
+        "female": 41
+      },
+      "55-59": {
+        "total": 76,
+        "male": 40,
+        "female": 36
+      },
+      "50-54": {
+        "total": 52,
+        "male": 21,
+        "female": 31
+      },
+      "45-49": {
+        "total": 52,
+        "male": 21,
+        "female": 31
+      },
+      "40-44": {
+        "total": 51,
+        "male": 21,
+        "female": 30
+      },
+      "35-39": {
+        "total": 45,
+        "male": 21,
+        "female": 24
+      },
+      "30-34": {
+        "total": 32,
+        "male": 8,
+        "female": 24
+      },
+      "25-29": {
+        "total": 31,
+        "male": 16,
+        "female": 15
+      },
+      "20-24": {
+        "total": 17,
+        "male": 8,
+        "female": 9
+      },
+      "15-19": {
+        "total": 8,
+        "male": 7,
+        "female": 1
+      },
+      "10-14": {
+        "total": 9,
+        "male": 6,
+        "female": 3
+      },
+      "05-09": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "00-04": {
+        "total": 13,
+        "male": 11,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/05/27",
+    "total": 670,
+    "ages": {
+      "70+": {
+        "total": 119,
+        "male": 60,
+        "female": 59
+      },
+      "65-69": {
+        "total": 64,
+        "male": 38,
+        "female": 26
+      },
+      "60-64": {
+        "total": 87,
+        "male": 46,
+        "female": 41
+      },
+      "55-59": {
+        "total": 70,
+        "male": 38,
+        "female": 32
+      },
+      "50-54": {
+        "total": 57,
+        "male": 23,
+        "female": 34
+      },
+      "45-49": {
+        "total": 43,
+        "male": 16,
+        "female": 27
+      },
+      "40-44": {
+        "total": 35,
+        "male": 15,
+        "female": 20
+      },
+      "35-39": {
+        "total": 42,
+        "male": 22,
+        "female": 20
+      },
+      "30-34": {
+        "total": 40,
+        "male": 19,
+        "female": 21
+      },
+      "25-29": {
+        "total": 31,
+        "male": 14,
+        "female": 17
+      },
+      "20-24": {
+        "total": 31,
+        "male": 16,
+        "female": 15
+      },
+      "15-19": {
+        "total": 21,
+        "male": 13,
+        "female": 8
+      },
+      "10-14": {
+        "total": 9,
+        "male": 3,
+        "female": 6
+      },
+      "05-09": {
+        "total": 8,
+        "male": 3,
+        "female": 5
+      },
+      "00-04": {
+        "total": 13,
+        "male": 7,
+        "female": 6
+      }
+    }
+  },
+  {
+    "date": "2021/05/28",
+    "total": 555,
+    "ages": {
+      "70+": {
+        "total": 75,
+        "male": 41,
+        "female": 34
+      },
+      "65-69": {
+        "total": 72,
+        "male": 41,
+        "female": 31
+      },
+      "60-64": {
+        "total": 56,
+        "male": 33,
+        "female": 23
+      },
+      "55-59": {
+        "total": 58,
+        "male": 27,
+        "female": 31
+      },
+      "50-54": {
+        "total": 44,
+        "male": 21,
+        "female": 23
+      },
+      "45-49": {
+        "total": 37,
+        "male": 21,
+        "female": 16
+      },
+      "40-44": {
+        "total": 47,
+        "male": 19,
+        "female": 28
+      },
+      "35-39": {
+        "total": 40,
+        "male": 14,
+        "female": 26
+      },
+      "30-34": {
+        "total": 34,
+        "male": 22,
+        "female": 12
+      },
+      "25-29": {
+        "total": 33,
+        "male": 20,
+        "female": 13
+      },
+      "20-24": {
+        "total": 20,
+        "male": 10,
+        "female": 10
+      },
+      "15-19": {
+        "total": 9,
+        "male": 3,
+        "female": 6
+      },
+      "10-14": {
+        "total": 13,
+        "male": 8,
+        "female": 5
+      },
+      "05-09": {
+        "total": 6,
+        "male": 4,
+        "female": 2
+      },
+      "00-04": {
+        "total": 11,
+        "male": 6,
+        "female": 5
+      }
+    }
+  },
+  {
+    "date": "2021/05/29",
+    "total": 487,
+    "ages": {
+      "70+": {
+        "total": 84,
+        "male": 43,
+        "female": 41
+      },
+      "65-69": {
+        "total": 43,
+        "male": 20,
+        "female": 23
+      },
+      "60-64": {
+        "total": 54,
+        "male": 30,
+        "female": 24
+      },
+      "55-59": {
+        "total": 47,
+        "male": 28,
+        "female": 19
+      },
+      "50-54": {
+        "total": 37,
+        "male": 17,
+        "female": 20
+      },
+      "45-49": {
+        "total": 33,
+        "male": 19,
+        "female": 14
+      },
+      "40-44": {
+        "total": 38,
+        "male": 21,
+        "female": 17
+      },
+      "35-39": {
+        "total": 39,
+        "male": 21,
+        "female": 18
+      },
+      "30-34": {
+        "total": 29,
+        "male": 14,
+        "female": 15
+      },
+      "25-29": {
+        "total": 25,
+        "male": 17,
+        "female": 8
+      },
+      "20-24": {
+        "total": 19,
+        "male": 13,
+        "female": 6
+      },
+      "15-19": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "10-14": {
+        "total": 9,
+        "male": 6,
+        "female": 3
+      },
+      "05-09": {
+        "total": 16,
+        "male": 9,
+        "female": 7
+      },
+      "00-04": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2021/05/30",
+    "total": 358,
+    "ages": {
+      "70+": {
+        "total": 60,
+        "male": 24,
+        "female": 36
+      },
+      "65-69": {
+        "total": 34,
+        "male": 14,
+        "female": 20
+      },
+      "60-64": {
+        "total": 46,
+        "male": 20,
+        "female": 26
+      },
+      "55-59": {
+        "total": 23,
+        "male": 11,
+        "female": 12
+      },
+      "50-54": {
+        "total": 28,
+        "male": 15,
+        "female": 13
+      },
+      "45-49": {
+        "total": 28,
+        "male": 10,
+        "female": 18
+      },
+      "40-44": {
+        "total": 25,
+        "male": 11,
+        "female": 14
+      },
+      "35-39": {
+        "total": 29,
+        "male": 14,
+        "female": 15
+      },
+      "30-34": {
+        "total": 23,
+        "male": 10,
+        "female": 13
+      },
+      "25-29": {
+        "total": 23,
+        "male": 13,
+        "female": 10
+      },
+      "20-24": {
+        "total": 14,
+        "male": 9,
+        "female": 5
+      },
+      "15-19": {
+        "total": 6,
+        "male": 6,
+        "female": 0
+      },
+      "10-14": {
+        "total": 5,
+        "male": 2,
+        "female": 3
+      },
+      "05-09": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      },
+      "00-04": {
+        "total": 9,
+        "male": 7,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/05/31",
+    "total": 351,
+    "ages": {
+      "70+": {
+        "total": 50,
+        "male": 30,
+        "female": 20
+      },
+      "65-69": {
+        "total": 33,
+        "male": 14,
+        "female": 19
+      },
+      "60-64": {
+        "total": 39,
+        "male": 17,
+        "female": 22
+      },
+      "55-59": {
+        "total": 33,
+        "male": 16,
+        "female": 17
+      },
+      "50-54": {
+        "total": 26,
+        "male": 12,
+        "female": 14
+      },
+      "45-49": {
+        "total": 24,
+        "male": 13,
+        "female": 11
+      },
+      "40-44": {
+        "total": 35,
+        "male": 15,
+        "female": 20
+      },
+      "35-39": {
+        "total": 21,
+        "male": 7,
+        "female": 14
+      },
+      "30-34": {
+        "total": 33,
+        "male": 14,
+        "female": 19
+      },
+      "25-29": {
+        "total": 23,
+        "male": 14,
+        "female": 9
+      },
+      "20-24": {
+        "total": 16,
+        "male": 6,
+        "female": 10
+      },
+      "15-19": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "10-14": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "05-09": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "00-04": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      }
+    }
+  },
+  {
+    "date": "2021/06/01",
+    "total": 330,
+    "ages": {
+      "70+": {
+        "total": 51,
+        "male": 29,
+        "female": 22
+      },
+      "65-69": {
+        "total": 31,
+        "male": 18,
+        "female": 13
+      },
+      "60-64": {
+        "total": 28,
+        "male": 14,
+        "female": 14
+      },
+      "55-59": {
+        "total": 28,
+        "male": 12,
+        "female": 16
+      },
+      "50-54": {
+        "total": 21,
+        "male": 7,
+        "female": 14
+      },
+      "45-49": {
+        "total": 15,
+        "male": 7,
+        "female": 8
+      },
+      "40-44": {
+        "total": 29,
+        "male": 11,
+        "female": 18
+      },
+      "35-39": {
+        "total": 28,
+        "male": 18,
+        "female": 10
+      },
+      "30-34": {
+        "total": 22,
+        "male": 13,
+        "female": 9
+      },
+      "25-29": {
+        "total": 27,
+        "male": 14,
+        "female": 13
+      },
+      "20-24": {
+        "total": 16,
+        "male": 10,
+        "female": 6
+      },
+      "15-19": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "10-14": {
+        "total": 10,
+        "male": 4,
+        "female": 6
+      },
+      "05-09": {
+        "total": 14,
+        "male": 7,
+        "female": 7
+      },
+      "00-04": {
+        "total": 6,
+        "male": 4,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/06/02",
+    "total": 548,
+    "ages": {
+      "70+": {
+        "total": 89,
+        "male": 40,
+        "female": 49
+      },
+      "65-69": {
+        "total": 48,
+        "male": 30,
+        "female": 18
+      },
+      "60-64": {
+        "total": 47,
+        "male": 27,
+        "female": 20
+      },
+      "55-59": {
+        "total": 50,
+        "male": 32,
+        "female": 18
+      },
+      "50-54": {
+        "total": 44,
+        "male": 24,
+        "female": 20
+      },
+      "45-49": {
+        "total": 36,
+        "male": 18,
+        "female": 18
+      },
+      "40-44": {
+        "total": 48,
+        "male": 25,
+        "female": 23
+      },
+      "35-39": {
+        "total": 53,
+        "male": 32,
+        "female": 21
+      },
+      "30-34": {
+        "total": 43,
+        "male": 27,
+        "female": 16
+      },
+      "25-29": {
+        "total": 28,
+        "male": 13,
+        "female": 15
+      },
+      "20-24": {
+        "total": 21,
+        "male": 8,
+        "female": 13
+      },
+      "15-19": {
+        "total": 13,
+        "male": 6,
+        "female": 7
+      },
+      "10-14": {
+        "total": 8,
+        "male": 5,
+        "female": 3
+      },
+      "05-09": {
+        "total": 6,
+        "male": 6,
+        "female": 0
+      },
+      "00-04": {
+        "total": 14,
+        "male": 9,
+        "female": 5
+      }
+    }
+  },
+  {
+    "date": "2021/06/03",
+    "total": 580,
+    "ages": {
+      "70+": {
+        "total": 86,
+        "male": 45,
+        "female": 41
+      },
+      "65-69": {
+        "total": 58,
+        "male": 29,
+        "female": 29
+      },
+      "60-64": {
+        "total": 43,
+        "male": 27,
+        "female": 16
+      },
+      "55-59": {
+        "total": 66,
+        "male": 31,
+        "female": 35
+      },
+      "50-54": {
+        "total": 30,
+        "male": 13,
+        "female": 17
+      },
+      "45-49": {
+        "total": 55,
+        "male": 27,
+        "female": 28
+      },
+      "40-44": {
+        "total": 52,
+        "male": 21,
+        "female": 31
+      },
+      "35-39": {
+        "total": 51,
+        "male": 28,
+        "female": 23
+      },
+      "30-34": {
+        "total": 41,
+        "male": 21,
+        "female": 20
+      },
+      "25-29": {
+        "total": 41,
+        "male": 25,
+        "female": 16
+      },
+      "20-24": {
+        "total": 16,
+        "male": 12,
+        "female": 4
+      },
+      "15-19": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "10-14": {
+        "total": 10,
+        "male": 8,
+        "female": 2
+      },
+      "05-09": {
+        "total": 13,
+        "male": 7,
+        "female": 6
+      },
+      "00-04": {
+        "total": 10,
+        "male": 6,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2021/06/04",
+    "total": 459,
+    "ages": {
+      "70+": {
+        "total": 70,
+        "male": 33,
+        "female": 37
+      },
+      "65-69": {
+        "total": 31,
+        "male": 10,
+        "female": 21
+      },
+      "60-64": {
+        "total": 38,
+        "male": 16,
+        "female": 22
+      },
+      "55-59": {
+        "total": 51,
+        "male": 24,
+        "female": 27
+      },
+      "50-54": {
+        "total": 34,
+        "male": 19,
+        "female": 15
+      },
+      "45-49": {
+        "total": 31,
+        "male": 14,
+        "female": 17
+      },
+      "40-44": {
+        "total": 33,
+        "male": 11,
+        "female": 22
+      },
+      "35-39": {
+        "total": 41,
+        "male": 21,
+        "female": 20
+      },
+      "30-34": {
+        "total": 43,
+        "male": 28,
+        "female": 15
+      },
+      "25-29": {
+        "total": 32,
+        "male": 23,
+        "female": 9
+      },
+      "20-24": {
+        "total": 18,
+        "male": 9,
+        "female": 9
+      },
+      "15-19": {
+        "total": 11,
+        "male": 4,
+        "female": 7
+      },
+      "10-14": {
+        "total": 11,
+        "male": 7,
+        "female": 4
+      },
+      "05-09": {
+        "total": 8,
+        "male": 3,
+        "female": 5
+      },
+      "00-04": {
+        "total": 7,
+        "male": 2,
+        "female": 5
+      }
+    }
+  },
+  {
+    "date": "2021/06/05",
+    "total": 504,
+    "ages": {
+      "70+": {
+        "total": 57,
+        "male": 32,
+        "female": 25
+      },
+      "65-69": {
+        "total": 39,
+        "male": 21,
+        "female": 18
+      },
+      "60-64": {
+        "total": 37,
+        "male": 20,
+        "female": 17
+      },
+      "55-59": {
+        "total": 37,
+        "male": 16,
+        "female": 21
+      },
+      "50-54": {
+        "total": 38,
+        "male": 19,
+        "female": 19
+      },
+      "45-49": {
+        "total": 42,
+        "male": 18,
+        "female": 24
+      },
+      "40-44": {
+        "total": 49,
+        "male": 27,
+        "female": 22
+      },
+      "35-39": {
+        "total": 51,
+        "male": 34,
+        "female": 17
+      },
+      "30-34": {
+        "total": 50,
+        "male": 33,
+        "female": 17
+      },
+      "25-29": {
+        "total": 50,
+        "male": 30,
+        "female": 20
+      },
+      "20-24": {
+        "total": 18,
+        "male": 11,
+        "female": 7
+      },
+      "15-19": {
+        "total": 8,
+        "male": 2,
+        "female": 6
+      },
+      "10-14": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "05-09": {
+        "total": 9,
+        "male": 4,
+        "female": 5
+      },
+      "00-04": {
+        "total": 11,
+        "male": 7,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2021/06/06",
+    "total": 321,
+    "ages": {
+      "70+": {
+        "total": 40,
+        "male": 19,
+        "female": 21
+      },
+      "65-69": {
+        "total": 24,
+        "male": 11,
+        "female": 13
+      },
+      "60-64": {
+        "total": 33,
+        "male": 18,
+        "female": 15
+      },
+      "55-59": {
+        "total": 18,
+        "male": 8,
+        "female": 10
+      },
+      "50-54": {
+        "total": 15,
+        "male": 6,
+        "female": 9
+      },
+      "45-49": {
+        "total": 27,
+        "male": 15,
+        "female": 12
+      },
+      "40-44": {
+        "total": 22,
+        "male": 8,
+        "female": 14
+      },
+      "35-39": {
+        "total": 35,
+        "male": 22,
+        "female": 13
+      },
+      "30-34": {
+        "total": 43,
+        "male": 26,
+        "female": 17
+      },
+      "25-29": {
+        "total": 29,
+        "male": 19,
+        "female": 10
+      },
+      "20-24": {
+        "total": 12,
+        "male": 8,
+        "female": 4
+      },
+      "15-19": {
+        "total": 11,
+        "male": 6,
+        "female": 5
+      },
+      "10-14": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "05-09": {
+        "total": 5,
+        "male": 4,
+        "female": 1
+      },
+      "00-04": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/06/07",
+    "total": 204,
+    "ages": {
+      "70+": {
+        "total": 32,
+        "male": 11,
+        "female": 21
+      },
+      "65-69": {
+        "total": 15,
+        "male": 10,
+        "female": 5
+      },
+      "60-64": {
+        "total": 18,
+        "male": 5,
+        "female": 13
+      },
+      "55-59": {
+        "total": 12,
+        "male": 4,
+        "female": 8
+      },
+      "50-54": {
+        "total": 12,
+        "male": 8,
+        "female": 4
+      },
+      "45-49": {
+        "total": 12,
+        "male": 8,
+        "female": 4
+      },
+      "40-44": {
+        "total": 26,
+        "male": 15,
+        "female": 11
+      },
+      "35-39": {
+        "total": 15,
+        "male": 5,
+        "female": 10
+      },
+      "30-34": {
+        "total": 32,
+        "male": 18,
+        "female": 14
+      },
+      "25-29": {
+        "total": 16,
+        "male": 9,
+        "female": 7
+      },
+      "20-24": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "10-14": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "05-09": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/06/08",
+    "total": 219,
+    "ages": {
+      "70+": {
+        "total": 24,
+        "male": 12,
+        "female": 12
+      },
+      "65-69": {
+        "total": 15,
+        "male": 7,
+        "female": 8
+      },
+      "60-64": {
+        "total": 22,
+        "male": 9,
+        "female": 13
+      },
+      "55-59": {
+        "total": 18,
+        "male": 7,
+        "female": 11
+      },
+      "50-54": {
+        "total": 9,
+        "male": 3,
+        "female": 6
+      },
+      "45-49": {
+        "total": 12,
+        "male": 6,
+        "female": 6
+      },
+      "40-44": {
+        "total": 23,
+        "male": 16,
+        "female": 7
+      },
+      "35-39": {
+        "total": 17,
+        "male": 7,
+        "female": 10
+      },
+      "30-34": {
+        "total": 20,
+        "male": 13,
+        "female": 7
+      },
+      "25-29": {
+        "total": 22,
+        "male": 15,
+        "female": 7
+      },
+      "20-24": {
+        "total": 16,
+        "male": 11,
+        "female": 5
+      },
+      "15-19": {
+        "total": 10,
+        "male": 7,
+        "female": 3
+      },
+      "10-14": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "05-09": {
+        "total": 6,
+        "male": 0,
+        "female": 6
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/06/09",
+    "total": 273,
+    "ages": {
+      "70+": {
+        "total": 27,
+        "male": 16,
+        "female": 11
+      },
+      "65-69": {
+        "total": 20,
+        "male": 14,
+        "female": 6
+      },
+      "60-64": {
+        "total": 20,
+        "male": 8,
+        "female": 12
+      },
+      "55-59": {
+        "total": 32,
+        "male": 15,
+        "female": 17
+      },
+      "50-54": {
+        "total": 28,
+        "male": 11,
+        "female": 17
+      },
+      "45-49": {
+        "total": 30,
+        "male": 14,
+        "female": 16
+      },
+      "40-44": {
+        "total": 10,
+        "male": 4,
+        "female": 6
+      },
+      "35-39": {
+        "total": 14,
+        "male": 6,
+        "female": 8
+      },
+      "30-34": {
+        "total": 22,
+        "male": 14,
+        "female": 8
+      },
+      "25-29": {
+        "total": 23,
+        "male": 14,
+        "female": 9
+      },
+      "20-24": {
+        "total": 21,
+        "male": 12,
+        "female": 9
+      },
+      "15-19": {
+        "total": 8,
+        "male": 5,
+        "female": 3
+      },
+      "10-14": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "05-09": {
+        "total": 7,
+        "male": 5,
+        "female": 2
+      },
+      "00-04": {
+        "total": 8,
+        "male": 3,
+        "female": 5
+      }
+    }
+  },
+  {
+    "date": "2021/06/10",
+    "total": 265,
+    "ages": {
+      "70+": {
+        "total": 31,
+        "male": 14,
+        "female": 17
+      },
+      "65-69": {
+        "total": 17,
+        "male": 9,
+        "female": 8
+      },
+      "60-64": {
+        "total": 21,
+        "male": 8,
+        "female": 13
+      },
+      "55-59": {
+        "total": 21,
+        "male": 8,
+        "female": 13
+      },
+      "50-54": {
+        "total": 14,
+        "male": 9,
+        "female": 5
+      },
+      "45-49": {
+        "total": 22,
+        "male": 9,
+        "female": 13
+      },
+      "40-44": {
+        "total": 19,
+        "male": 6,
+        "female": 13
+      },
+      "35-39": {
+        "total": 29,
+        "male": 15,
+        "female": 14
+      },
+      "30-34": {
+        "total": 31,
+        "male": 18,
+        "female": 13
+      },
+      "25-29": {
+        "total": 33,
+        "male": 19,
+        "female": 14
+      },
+      "20-24": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "15-19": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "10-14": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      },
+      "05-09": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      },
+      "00-04": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2021/06/11",
+    "total": 286,
+    "ages": {
+      "70+": {
+        "total": 34,
+        "male": 21,
+        "female": 13
+      },
+      "65-69": {
+        "total": 18,
+        "male": 12,
+        "female": 6
+      },
+      "60-64": {
+        "total": 23,
+        "male": 10,
+        "female": 13
+      },
+      "55-59": {
+        "total": 27,
+        "male": 11,
+        "female": 16
+      },
+      "50-54": {
+        "total": 18,
+        "male": 10,
+        "female": 8
+      },
+      "45-49": {
+        "total": 13,
+        "male": 4,
+        "female": 9
+      },
+      "40-44": {
+        "total": 22,
+        "male": 7,
+        "female": 15
+      },
+      "35-39": {
+        "total": 27,
+        "male": 17,
+        "female": 10
+      },
+      "30-34": {
+        "total": 33,
+        "male": 18,
+        "female": 15
+      },
+      "25-29": {
+        "total": 42,
+        "male": 21,
+        "female": 21
+      },
+      "20-24": {
+        "total": 8,
+        "male": 3,
+        "female": 5
+      },
+      "15-19": {
+        "total": 7,
+        "male": 2,
+        "female": 5
+      },
+      "10-14": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "05-09": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "00-04": {
+        "total": 9,
+        "male": 4,
+        "female": 5
+      }
+    }
+  },
+  {
+    "date": "2021/06/12",
+    "total": 250,
+    "ages": {
+      "70+": {
+        "total": 40,
+        "male": 14,
+        "female": 26
+      },
+      "65-69": {
+        "total": 21,
+        "male": 13,
+        "female": 8
+      },
+      "60-64": {
+        "total": 22,
+        "male": 10,
+        "female": 12
+      },
+      "55-59": {
+        "total": 31,
+        "male": 9,
+        "female": 22
+      },
+      "50-54": {
+        "total": 16,
+        "male": 8,
+        "female": 8
+      },
+      "45-49": {
+        "total": 17,
+        "male": 6,
+        "female": 11
+      },
+      "40-44": {
+        "total": 21,
+        "male": 10,
+        "female": 11
+      },
+      "35-39": {
+        "total": 17,
+        "male": 9,
+        "female": 8
+      },
+      "30-34": {
+        "total": 19,
+        "male": 10,
+        "female": 9
+      },
+      "25-29": {
+        "total": 14,
+        "male": 7,
+        "female": 7
+      },
+      "20-24": {
+        "total": 11,
+        "male": 6,
+        "female": 5
+      },
+      "15-19": {
+        "total": 6,
+        "male": 4,
+        "female": 2
+      },
+      "10-14": {
+        "total": 7,
+        "male": 5,
+        "female": 2
+      },
+      "05-09": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "00-04": {
+        "total": 7,
+        "male": 3,
+        "female": 4
+      }
+    }
+  },
+  {
+    "date": "2021/06/13",
+    "total": 175,
+    "ages": {
+      "70+": {
+        "total": 20,
+        "male": 10,
+        "female": 10
+      },
+      "65-69": {
+        "total": 11,
+        "male": 6,
+        "female": 5
+      },
+      "60-64": {
+        "total": 16,
+        "male": 8,
+        "female": 8
+      },
+      "55-59": {
+        "total": 17,
+        "male": 11,
+        "female": 6
+      },
+      "50-54": {
+        "total": 13,
+        "male": 3,
+        "female": 10
+      },
+      "45-49": {
+        "total": 18,
+        "male": 10,
+        "female": 8
+      },
+      "40-44": {
+        "total": 16,
+        "male": 7,
+        "female": 9
+      },
+      "35-39": {
+        "total": 15,
+        "male": 3,
+        "female": 12
+      },
+      "30-34": {
+        "total": 9,
+        "male": 4,
+        "female": 5
+      },
+      "25-29": {
+        "total": 12,
+        "male": 8,
+        "female": 4
+      },
+      "20-24": {
+        "total": 9,
+        "male": 3,
+        "female": 6
+      },
+      "15-19": {
+        "total": 7,
+        "male": 2,
+        "female": 5
+      },
+      "10-14": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "05-09": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "00-04": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/06/14",
+    "total": 184,
+    "ages": {
+      "70+": {
+        "total": 27,
+        "male": 16,
+        "female": 11
+      },
+      "65-69": {
+        "total": 9,
+        "male": 4,
+        "female": 5
+      },
+      "60-64": {
+        "total": 23,
+        "male": 4,
+        "female": 19
+      },
+      "55-59": {
+        "total": 19,
+        "male": 10,
+        "female": 9
+      },
+      "50-54": {
+        "total": 19,
+        "male": 12,
+        "female": 7
+      },
+      "45-49": {
+        "total": 18,
+        "male": 7,
+        "female": 11
+      },
+      "40-44": {
+        "total": 9,
+        "male": 3,
+        "female": 6
+      },
+      "35-39": {
+        "total": 9,
+        "male": 4,
+        "female": 5
+      },
+      "30-34": {
+        "total": 10,
+        "male": 2,
+        "female": 8
+      },
+      "25-29": {
+        "total": 12,
+        "male": 5,
+        "female": 7
+      },
+      "20-24": {
+        "total": 12,
+        "male": 7,
+        "female": 5
+      },
+      "15-19": {
+        "total": 5,
+        "male": 4,
+        "female": 1
+      },
+      "10-14": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "05-09": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "00-04": {
+        "total": 7,
+        "male": 2,
+        "female": 5
+      }
+    }
+  },
+  {
+    "date": "2021/06/15",
+    "total": 135,
+    "ages": {
+      "70+": {
+        "total": 13,
+        "male": 7,
+        "female": 6
+      },
+      "65-69": {
+        "total": 11,
+        "male": 9,
+        "female": 2
+      },
+      "60-64": {
+        "total": 10,
+        "male": 4,
+        "female": 6
+      },
+      "55-59": {
+        "total": 15,
+        "male": 7,
+        "female": 8
+      },
+      "50-54": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "45-49": {
+        "total": 11,
+        "male": 6,
+        "female": 5
+      },
+      "40-44": {
+        "total": 14,
+        "male": 6,
+        "female": 8
+      },
+      "35-39": {
+        "total": 11,
+        "male": 2,
+        "female": 9
+      },
+      "30-34": {
+        "total": 14,
+        "male": 6,
+        "female": 8
+      },
+      "25-29": {
+        "total": 10,
+        "male": 4,
+        "female": 6
+      },
+      "20-24": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "15-19": {
+        "total": 5,
+        "male": 2,
+        "female": 3
+      },
+      "10-14": {
+        "total": 5,
+        "male": 2,
+        "female": 3
+      },
+      "05-09": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "00-04": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      }
+    }
+  },
+  {
+    "date": "2021/06/16",
+    "total": 169,
+    "ages": {
+      "70+": {
+        "total": 23,
+        "male": 8,
+        "female": 15
+      },
+      "65-69": {
+        "total": 14,
+        "male": 7,
+        "female": 7
+      },
+      "60-64": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      },
+      "55-59": {
+        "total": 16,
+        "male": 9,
+        "female": 7
+      },
+      "50-54": {
+        "total": 7,
+        "male": 5,
+        "female": 2
+      },
+      "45-49": {
+        "total": 12,
+        "male": 2,
+        "female": 10
+      },
+      "40-44": {
+        "total": 9,
+        "male": 3,
+        "female": 6
+      },
+      "35-39": {
+        "total": 18,
+        "male": 9,
+        "female": 9
+      },
+      "30-34": {
+        "total": 23,
+        "male": 17,
+        "female": 6
+      },
+      "25-29": {
+        "total": 13,
+        "male": 10,
+        "female": 3
+      },
+      "20-24": {
+        "total": 18,
+        "male": 12,
+        "female": 6
+      },
+      "15-19": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "10-14": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "05-09": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "00-04": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/06/17",
+    "total": 175,
+    "ages": {
+      "70+": {
+        "total": 29,
+        "male": 16,
+        "female": 13
+      },
+      "65-69": {
+        "total": 13,
+        "male": 8,
+        "female": 5
+      },
+      "60-64": {
+        "total": 12,
+        "male": 6,
+        "female": 6
+      },
+      "55-59": {
+        "total": 11,
+        "male": 5,
+        "female": 6
+      },
+      "50-54": {
+        "total": 9,
+        "male": 5,
+        "female": 4
+      },
+      "45-49": {
+        "total": 9,
+        "male": 6,
+        "female": 3
+      },
+      "40-44": {
+        "total": 13,
+        "male": 7,
+        "female": 6
+      },
+      "35-39": {
+        "total": 18,
+        "male": 8,
+        "female": 10
+      },
+      "30-34": {
+        "total": 18,
+        "male": 15,
+        "female": 3
+      },
+      "25-29": {
+        "total": 21,
+        "male": 12,
+        "female": 9
+      },
+      "20-24": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "15-19": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "10-14": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "05-09": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "00-04": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/06/18",
+    "total": 186,
+    "ages": {
+      "70+": {
+        "total": 36,
+        "male": 12,
+        "female": 24
+      },
+      "65-69": {
+        "total": 11,
+        "male": 8,
+        "female": 3
+      },
+      "60-64": {
+        "total": 9,
+        "male": 4,
+        "female": 5
+      },
+      "55-59": {
+        "total": 10,
+        "male": 4,
+        "female": 6
+      },
+      "50-54": {
+        "total": 10,
+        "male": 4,
+        "female": 6
+      },
+      "45-49": {
+        "total": 9,
+        "male": 5,
+        "female": 4
+      },
+      "40-44": {
+        "total": 18,
+        "male": 5,
+        "female": 13
+      },
+      "35-39": {
+        "total": 19,
+        "male": 12,
+        "female": 7
+      },
+      "30-34": {
+        "total": 20,
+        "male": 6,
+        "female": 14
+      },
+      "25-29": {
+        "total": 16,
+        "male": 9,
+        "female": 7
+      },
+      "20-24": {
+        "total": 12,
+        "male": 5,
+        "female": 7
+      },
+      "15-19": {
+        "total": 9,
+        "male": 5,
+        "female": 4
+      },
+      "10-14": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "00-04": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/06/19",
+    "total": 128,
+    "ages": {
+      "70+": {
+        "total": 23,
+        "male": 10,
+        "female": 13
+      },
+      "65-69": {
+        "total": 8,
+        "male": 5,
+        "female": 3
+      },
+      "60-64": {
+        "total": 10,
+        "male": 4,
+        "female": 6
+      },
+      "55-59": {
+        "total": 8,
+        "male": 2,
+        "female": 6
+      },
+      "50-54": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "45-49": {
+        "total": 11,
+        "male": 3,
+        "female": 8
+      },
+      "40-44": {
+        "total": 12,
+        "male": 6,
+        "female": 6
+      },
+      "35-39": {
+        "total": 16,
+        "male": 8,
+        "female": 8
+      },
+      "30-34": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "25-29": {
+        "total": 9,
+        "male": 7,
+        "female": 2
+      },
+      "20-24": {
+        "total": 4,
+        "male": 4,
+        "female": 0
+      },
+      "15-19": {
+        "total": 5,
+        "male": 4,
+        "female": 1
+      },
+      "10-14": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      },
+      "05-09": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "00-04": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/06/20",
+    "total": 109,
+    "ages": {
+      "70+": {
+        "total": 23,
+        "male": 7,
+        "female": 16
+      },
+      "65-69": {
+        "total": 15,
+        "male": 9,
+        "female": 6
+      },
+      "60-64": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "55-59": {
+        "total": 9,
+        "male": 5,
+        "female": 4
+      },
+      "50-54": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "45-49": {
+        "total": 7,
+        "male": 5,
+        "female": 2
+      },
+      "40-44": {
+        "total": 10,
+        "male": 6,
+        "female": 4
+      },
+      "35-39": {
+        "total": 5,
+        "male": 2,
+        "female": 3
+      },
+      "30-34": {
+        "total": 8,
+        "male": 3,
+        "female": 5
+      },
+      "25-29": {
+        "total": 7,
+        "male": 5,
+        "female": 2
+      },
+      "20-24": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "15-19": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      },
+      "10-14": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "05-09": {
+        "total": 5,
+        "male": 4,
+        "female": 1
+      },
+      "00-04": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/06/21",
+    "total": 74,
+    "ages": {
+      "70+": {
+        "total": 10,
+        "male": 4,
+        "female": 6
+      },
+      "65-69": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "60-64": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      },
+      "55-59": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "50-54": {
+        "total": 7,
+        "male": 3,
+        "female": 4
+      },
+      "45-49": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "40-44": {
+        "total": 7,
+        "male": 2,
+        "female": 5
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "30-34": {
+        "total": 8,
+        "male": 5,
+        "female": 3
+      },
+      "25-29": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "20-24": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "10-14": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "05-09": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "00-04": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/06/22",
+    "total": 78,
+    "ages": {
+      "70+": {
+        "total": 12,
+        "male": 6,
+        "female": 6
+      },
+      "65-69": {
+        "total": 11,
+        "male": 6,
+        "female": 5
+      },
+      "60-64": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "55-59": {
+        "total": 5,
+        "male": 0,
+        "female": 5
+      },
+      "50-54": {
+        "total": 6,
+        "male": 6,
+        "female": 0
+      },
+      "45-49": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "40-44": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "35-39": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "30-34": {
+        "total": 7,
+        "male": 3,
+        "female": 4
+      },
+      "25-29": {
+        "total": 9,
+        "male": 4,
+        "female": 5
+      },
+      "20-24": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "10-14": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "05-09": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "00-04": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/06/23",
+    "total": 104,
+    "ages": {
+      "70+": {
+        "total": 13,
+        "male": 7,
+        "female": 6
+      },
+      "65-69": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "60-64": {
+        "total": 12,
+        "male": 8,
+        "female": 4
+      },
+      "55-59": {
+        "total": 11,
+        "male": 2,
+        "female": 9
+      },
+      "50-54": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "45-49": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "40-44": {
+        "total": 11,
+        "male": 4,
+        "female": 7
+      },
+      "35-39": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "30-34": {
+        "total": 11,
+        "male": 6,
+        "female": 5
+      },
+      "25-29": {
+        "total": 5,
+        "male": 2,
+        "female": 3
+      },
+      "20-24": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      },
+      "15-19": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "10-14": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "05-09": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "00-04": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/06/24",
+    "total": 130,
+    "ages": {
+      "70+": {
+        "total": 16,
+        "male": 10,
+        "female": 6
+      },
+      "65-69": {
+        "total": 12,
+        "male": 5,
+        "female": 7
+      },
+      "60-64": {
+        "total": 12,
+        "male": 7,
+        "female": 5
+      },
+      "55-59": {
+        "total": 12,
+        "male": 4,
+        "female": 8
+      },
+      "50-54": {
+        "total": 8,
+        "male": 5,
+        "female": 3
+      },
+      "45-49": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "40-44": {
+        "total": 14,
+        "male": 6,
+        "female": 8
+      },
+      "35-39": {
+        "total": 9,
+        "male": 3,
+        "female": 6
+      },
+      "30-34": {
+        "total": 9,
+        "male": 5,
+        "female": 4
+      },
+      "25-29": {
+        "total": 7,
+        "male": 2,
+        "female": 5
+      },
+      "20-24": {
+        "total": 10,
+        "male": 5,
+        "female": 5
+      },
+      "15-19": {
+        "total": 6,
+        "male": 4,
+        "female": 2
+      },
+      "10-14": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "05-09": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "00-04": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/06/25",
+    "total": 76,
+    "ages": {
+      "70+": {
+        "total": 15,
+        "male": 4,
+        "female": 11
+      },
+      "65-69": {
+        "total": 8,
+        "male": 5,
+        "female": 3
+      },
+      "60-64": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "55-59": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "50-54": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "45-49": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      },
+      "40-44": {
+        "total": 8,
+        "male": 3,
+        "female": 5
+      },
+      "35-39": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "30-34": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "25-29": {
+        "total": 10,
+        "male": 9,
+        "female": 1
+      },
+      "15-19": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "10-14": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "05-09": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/06/26",
+    "total": 80,
+    "ages": {
+      "70+": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "65-69": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "60-64": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "55-59": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "50-54": {
+        "total": 12,
+        "male": 5,
+        "female": 7
+      },
+      "45-49": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "40-44": {
+        "total": 8,
+        "male": 3,
+        "female": 5
+      },
+      "35-39": {
+        "total": 11,
+        "male": 5,
+        "female": 6
+      },
+      "30-34": {
+        "total": 6,
+        "male": 3,
+        "female": 3
+      },
+      "25-29": {
+        "total": 6,
+        "male": 5,
+        "female": 1
+      },
+      "20-24": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "15-19": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "10-14": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "05-09": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "00-04": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/06/27",
+    "total": 89,
+    "ages": {
+      "70+": {
+        "total": 6,
+        "male": 1,
+        "female": 5
+      },
+      "65-69": {
+        "total": 6,
+        "male": 4,
+        "female": 2
+      },
+      "60-64": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "55-59": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "50-54": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "45-49": {
+        "total": 8,
+        "male": 7,
+        "female": 1
+      },
+      "40-44": {
+        "total": 13,
+        "male": 6,
+        "female": 7
+      },
+      "35-39": {
+        "total": 8,
+        "male": 5,
+        "female": 3
+      },
+      "30-34": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "25-29": {
+        "total": 10,
+        "male": 6,
+        "female": 4
+      },
+      "20-24": {
+        "total": 6,
+        "male": 4,
+        "female": 2
+      },
+      "15-19": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "10-14": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "05-09": {
+        "total": 7,
+        "male": 4,
+        "female": 3
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/06/28",
+    "total": 59,
+    "ages": {
+      "70+": {
+        "total": 6,
+        "male": 1,
+        "female": 5
+      },
+      "65-69": {
+        "total": 7,
+        "male": 1,
+        "female": 6
+      },
+      "60-64": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "55-59": {
+        "total": 7,
+        "male": 2,
+        "female": 5
+      },
+      "50-54": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "45-49": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      },
+      "40-44": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "35-39": {
+        "total": 4,
+        "male": 4,
+        "female": 0
+      },
+      "30-34": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "20-24": {
+        "total": 7,
+        "male": 5,
+        "female": 2
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "10-14": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "05-09": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/06/29",
+    "total": 54,
+    "ages": {
+      "70+": {
+        "total": 11,
+        "male": 4,
+        "female": 7
+      },
+      "65-69": {
+        "total": 8,
+        "male": 2,
+        "female": 6
+      },
+      "60-64": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "55-59": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "50-54": {
+        "total": 6,
+        "male": 1,
+        "female": 5
+      },
+      "45-49": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "40-44": {
+        "total": 5,
+        "male": 2,
+        "female": 3
+      },
+      "35-39": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "30-34": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "10-14": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "05-09": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "00-04": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/06/30",
+    "total": 56,
+    "ages": {
+      "70+": {
+        "total": 6,
+        "male": 4,
+        "female": 2
+      },
+      "65-69": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "60-64": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      },
+      "55-59": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      },
+      "50-54": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "45-49": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "40-44": {
+        "total": 6,
+        "male": 4,
+        "female": 2
+      },
+      "35-39": {
+        "total": 10,
+        "male": 5,
+        "female": 5
+      },
+      "30-34": {
+        "total": 5,
+        "male": 4,
+        "female": 1
+      },
+      "25-29": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "20-24": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "10-14": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "05-09": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/07/01",
+    "total": 50,
+    "ages": {
+      "70+": {
+        "total": 8,
+        "male": 6,
+        "female": 2
+      },
+      "65-69": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "60-64": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "55-59": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "50-54": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "45-49": {
+        "total": 6,
+        "male": 2,
+        "female": 4
+      },
+      "40-44": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "35-39": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "30-34": {
+        "total": 4,
+        "male": 4,
+        "female": 0
+      },
+      "25-29": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "20-24": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "15-19": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "00-04": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/07/02",
+    "total": 58,
+    "ages": {
+      "70+": {
+        "total": 7,
+        "male": 3,
+        "female": 4
+      },
+      "65-69": {
+        "total": 4,
+        "male": 0,
+        "female": 4
+      },
+      "60-64": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "55-59": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "50-54": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "45-49": {
+        "total": 9,
+        "male": 5,
+        "female": 4
+      },
+      "40-44": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "35-39": {
+        "total": 7,
+        "male": 2,
+        "female": 5
+      },
+      "30-34": {
+        "total": 5,
+        "male": 2,
+        "female": 3
+      },
+      "25-29": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "20-24": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "15-19": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "10-14": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "05-09": {
+        "total": 4,
+        "male": 3,
+        "female": 1
+      },
+      "00-04": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/07/03",
+    "total": 80,
+    "ages": {
+      "70+": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "65-69": {
+        "total": 13,
+        "male": 6,
+        "female": 7
+      },
+      "60-64": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      },
+      "55-59": {
+        "total": 11,
+        "male": 3,
+        "female": 8
+      },
+      "50-54": {
+        "total": 5,
+        "male": 2,
+        "female": 3
+      },
+      "45-49": {
+        "total": 9,
+        "male": 6,
+        "female": 3
+      },
+      "40-44": {
+        "total": 9,
+        "male": 5,
+        "female": 4
+      },
+      "35-39": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      },
+      "30-34": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "25-29": {
+        "total": 7,
+        "male": 2,
+        "female": 5
+      },
+      "20-24": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "15-19": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "10-14": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/07/04",
+    "total": 39,
+    "ages": {
+      "70+": {
+        "total": 7,
+        "male": 2,
+        "female": 5
+      },
+      "65-69": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "55-59": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "50-54": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "45-49": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "40-44": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "35-39": {
+        "total": 5,
+        "male": 0,
+        "female": 5
+      },
+      "30-34": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "25-29": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "15-19": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "00-04": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/07/05",
+    "total": 31,
+    "ages": {
+      "70+": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      },
+      "65-69": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      },
+      "60-64": {
+        "total": 3,
+        "male": 0,
+        "female": 3
+      },
+      "55-59": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "50-54": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "45-49": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "40-44": {
+        "total": 5,
+        "male": 4,
+        "female": 1
+      },
+      "35-39": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "05-09": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "00-04": {
+        "total": 2,
+        "male": 0,
+        "female": 2
+      }
+    }
+  },
+  {
+    "date": "2021/07/06",
+    "total": 29,
+    "ages": {
+      "70+": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "65-69": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "55-59": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "50-54": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "40-44": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      },
+      "35-39": {
+        "total": 5,
+        "male": 3,
+        "female": 2
+      },
+      "30-34": {
+        "total": 4,
+        "male": 2,
+        "female": 2
+      },
+      "25-29": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "10-14": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "05-09": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "00-04": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      }
+    }
+  },
+  {
+    "date": "2021/07/07",
+    "total": 40,
+    "ages": {
+      "70+": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "60-64": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "55-59": {
+        "total": 3,
+        "male": 3,
+        "female": 0
+      },
+      "50-54": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "45-49": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "40-44": {
+        "total": 8,
+        "male": 4,
+        "female": 4
+      },
+      "35-39": {
+        "total": 3,
+        "male": 1,
+        "female": 2
+      },
+      "25-29": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "20-24": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "15-19": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "10-14": {
+        "total": 4,
+        "male": 0,
+        "female": 4
+      },
+      "05-09": {
+        "total": 3,
+        "male": 2,
+        "female": 1
+      }
+    }
+  },
+  {
+    "date": "2021/07/08",
+    "total": 21,
+    "ages": {
+      "65-69": {
+        "total": 1,
+        "male": 1,
+        "female": 0
+      },
+      "55-59": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "45-49": {
+        "total": 2,
+        "male": 2,
+        "female": 0
+      },
+      "40-44": {
+        "total": 4,
+        "male": 1,
+        "female": 3
+      },
+      "35-39": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "25-29": {
+        "total": 5,
+        "male": 1,
+        "female": 4
+      },
+      "20-24": {
+        "total": 1,
+        "male": 0,
+        "female": 1
+      },
+      "10-14": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      },
+      "00-04": {
+        "total": 2,
+        "male": 1,
+        "female": 1
+      }
+    }
+  }
+]
